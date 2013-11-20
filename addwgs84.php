@@ -4,8 +4,8 @@ require_once dirname(__FILE__) . '/CoordinateTransformationLibrary/src/coordinat
 require_once dirname(__FILE__) . '/CoordinateTransformationLibrary/src/coordinatetransformation/positions/WGS84Position.php';
 
 $all = json_decode(file_get_contents('all-sweref.json'));
-$all = $all->Stations
-die();
+$all = $all->Stations->Station;
+
 foreach($all as $key => $station)
 	{
 		if(isset($all[$key]->position->wgs84) == FALSE)
