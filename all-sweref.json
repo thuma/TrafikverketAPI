@@ -1,0 +1,5831 @@
+{
+  "Stations": {
+    "Station": [
+      {
+        "CountyNo": "4",
+        "EPSG": "3006",
+        "EW": "615535",
+        "Id": "0015a7ed-43f3-4a87-b529-0c33d0655b50",
+        "Namn": "Nyköping C",
+        "NS": "6514673",
+        "Prognostisering": "true",
+        "Signatur": "Nk"
+      },
+      {
+        "CountyNo": "22",
+        "EPSG": "3006",
+        "EW": "568855",
+        "Id": "0047e209-794e-42fe-85ae-49d7397030cd",
+        "Namn": "Torpshammar",
+        "NS": "6927554",
+        "Prognostisering": "true",
+        "Signatur": "To"
+      },
+      {
+        "CountyNo": "17",
+        "EPSG": "3006",
+        "EW": "400594",
+        "Id": "006d90bd-4cfb-411e-bd81-8aa85465497c",
+        "Namn": "Tolita",
+        "NS": "6605708",
+        "Prognostisering": "true",
+        "Signatur": "Tlt"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "516428",
+        "Id": "0070ce30-adf9-43c7-bacd-a73c9045ec34",
+        "Namn": "Bruzaholm",
+        "NS": "6388847",
+        "Prognostisering": "true",
+        "Signatur": "Bz"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "364503",
+        "Id": "0122f70b-ea81-4c40-9566-d912c39122b6",
+        "Namn": "Grästorp",
+        "NS": "6468292",
+        "Prognostisering": "true",
+        "Signatur": "Gop"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "357508",
+        "Id": "0129a2e8-14fb-4b3a-a948-4485090c5812",
+        "Namn": "Maria",
+        "NS": "6216853",
+        "Prognostisering": "true",
+        "Signatur": "Mia"
+      },
+      {
+        "CountyNo": "5",
+        "EPSG": "3006",
+        "EW": "516867",
+        "Id": "0138a37c-84bb-4324-b9a8-101e8534cf31",
+        "Namn": "Mantorp",
+        "NS": "6467490",
+        "Prognostisering": "true",
+        "Signatur": "Mt"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "448782",
+        "Id": "01443046-4adc-4208-80cb-e4aea6d0ff99",
+        "Namn": "Vaggeryd",
+        "NS": "6373168",
+        "Prognostisering": "true",
+        "Signatur": "Vgd"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "380980",
+        "Id": "0216689a-fbcb-4e7c-b731-61646db72834",
+        "Namn": "Åkarp",
+        "NS": "6169561",
+        "Prognostisering": "true",
+        "Signatur": "Åk"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "369354",
+        "Id": "039c2eb4-1d64-478e-8417-b321088075c2",
+        "Namn": "Häljarp",
+        "NS": "6192560",
+        "Prognostisering": "true",
+        "Signatur": "Häp"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "434063",
+        "Id": "0473844a-843a-45b9-b1c8-05baf2a89ad0",
+        "Namn": "Hästveda",
+        "NS": "6238707",
+        "Prognostisering": "true",
+        "Signatur": "Hv"
+      },
+      {
+        "CountyNo": "2",
+        "EPSG": "3006",
+        "EW": "664738",
+        "Id": "04986957-b898-4252-9ef8-8ba62bbdf11c",
+        "Namn": "Arlanda S",
+        "NS": "6615419",
+        "Prognostisering": "false",
+        "Signatur": "Arns"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "402233",
+        "Id": "04c899b3-c0e3-4475-9214-762ef0e508ca",
+        "Namn": "Blomberg",
+        "NS": "6490072",
+        "Prognostisering": "true",
+        "Signatur": "Bmb"
+      },
+      {
+        "CountyNo": "10",
+        "EPSG": "3006",
+        "EW": "507195",
+        "Id": "04cdcf83-fe34-4cd7-806e-03c4dd4b03eb",
+        "Namn": "Bräkne-Hoby",
+        "NS": "6231837",
+        "Prognostisering": "true",
+        "Signatur": "Bhb"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "424489",
+        "Id": "050a2143-8ccb-4d0b-85a9-98d96c864d91",
+        "Namn": "Stenstorp",
+        "NS": "6459817",
+        "Prognostisering": "true",
+        "Signatur": "Ss"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "374034",
+        "Id": "05804b09-8bfb-46db-a2a8-52e0a0b752f8",
+        "Namn": "Malmö C",
+        "NS": "6164458",
+        "Prognostisering": "true",
+        "Signatur": "M"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "325322",
+        "Id": "05e545c8-e84f-49dd-93a7-d8bacdb4a109",
+        "Namn": "Lindome",
+        "NS": "6385270",
+        "Prognostisering": "true",
+        "Signatur": "Ldo"
+      },
+      {
+        "CountyNo": "19",
+        "EPSG": "3006",
+        "EW": "543235",
+        "Id": "05fa036a-38c6-4395-b4c4-35590dbd2230",
+        "Namn": "Fagersta Norra",
+        "NS": "6652627",
+        "Prognostisering": "true",
+        "Signatur": "Fgn"
+      },
+      {
+        "CountyNo": "20",
+        "EPSG": "3006",
+        "EW": "535140",
+        "Id": "07af76b1-b9ef-4b14-bacd-6e828982696f",
+        "Namn": "Falun C",
+        "NS": "6718768",
+        "Prognostisering": "true",
+        "Signatur": "Fln"
+      },
+      {
+        "CountyNo": "3",
+        "EPSG": "3006",
+        "EW": "638685",
+        "Id": "07bcd99b-055c-4153-a8ef-6e12e6e6c988",
+        "Namn": "Tierp",
+        "NS": "6692565",
+        "Prognostisering": "true",
+        "Signatur": "Tip"
+      },
+      {
+        "CountyNo": "2",
+        "EPSG": "3006",
+        "EW": "665884",
+        "Id": "07e9baed-5266-4768-8750-b082512e4252",
+        "Namn": "Test visningsnamn",
+        "NS": "6566571",
+        "Prognostisering": "true",
+        "Signatur": "Test"
+      },
+      {
+        "CountyNo": "19",
+        "EPSG": "3006",
+        "EW": "597849",
+        "Id": "08676180-259c-4062-bcbe-693c5329d4b3",
+        "Namn": "Oslo",
+        "NS": "6643424",
+        "Prognostisering": "false",
+        "Signatur": "No.osl"
+      },
+      {
+        "CountyNo": "18",
+        "EPSG": "3006",
+        "EW": "512022",
+        "Id": "08922d63-88e3-4da6-ab17-0943c4e5d65e",
+        "Namn": "Örebro C",
+        "NS": "6571051",
+        "Prognostisering": "true",
+        "Signatur": "Ör"
+      },
+      {
+        "CountyNo": "13",
+        "EPSG": "3006",
+        "EW": "333348",
+        "Id": "09edd466-f25d-4a59-b31c-75e77f732ad2",
+        "Namn": "Varberg",
+        "NS": "6332926",
+        "Prognostisering": "true",
+        "Signatur": "Vb"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "337789",
+        "Id": "0a541009-ccd2-411b-9cc6-93f993f3b69a",
+        "Namn": "Lerum",
+        "NS": "6406304",
+        "Prognostisering": "true",
+        "Signatur": "Lr"
+      },
+      {
+        "CountyNo": "20",
+        "EPSG": "3006",
+        "EW": "535864",
+        "Id": "0a56e6bb-317b-496e-8054-93b07021921b",
+        "Namn": "Vad",
+        "NS": "6655173",
+        "Prognostisering": "true",
+        "Signatur": "Vad"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "489460",
+        "Id": "0b629efe-3e12-40bf-adf8-5fef02ffc9f3",
+        "Namn": "Stensjön",
+        "NS": "6382247",
+        "Prognostisering": "true",
+        "Signatur": "Snö"
+      },
+      {
+        "CountyNo": "4",
+        "EPSG": "3006",
+        "EW": "589338",
+        "Id": "0b88546f-9a86-42da-8e1e-536b0f70dd97",
+        "Namn": "Mellösa",
+        "NS": "6552325",
+        "Prognostisering": "false",
+        "Signatur": "Mlö"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "382272",
+        "Id": "0c3669ee-5058-4dc2-9549-4c0ba240558d",
+        "Namn": "Vedum",
+        "NS": "6449271",
+        "Prognostisering": "true",
+        "Signatur": "Ved"
+      },
+      {
+        "CountyNo": "25",
+        "EPSG": "3006",
+        "EW": "627923",
+        "Id": "0c50f720-aca4-4ef6-9a9b-f40d267104b0",
+        "Namn": "Riksgränsen",
+        "NS": "7593733",
+        "Prognostisering": "true",
+        "Signatur": "Rgn"
+      },
+      {
+        "CountyNo": "2",
+        "EPSG": "3006",
+        "EW": "636463",
+        "Id": "0ca0cd30-7e2f-4552-957f-a69f38b56998",
+        "Namn": "Halden",
+        "NS": "6556780",
+        "Prognostisering": "false",
+        "Signatur": "No.hld"
+      },
+      {
+        "CountyNo": "23",
+        "EPSG": "3006",
+        "EW": "521334",
+        "Id": "0d832d67-df37-4fda-aa62-bf9d8ba778c5",
+        "Namn": "Bräcke",
+        "NS": "6957805",
+        "Prognostisering": "true",
+        "Signatur": "Bä"
+      },
+      {
+        "CountyNo": "5",
+        "EPSG": "3006",
+        "EW": "507738",
+        "Id": "0d916666-6655-4bce-8d06-a374705d5424",
+        "Namn": "Mjölby",
+        "NS": "6464651",
+        "Prognostisering": "true",
+        "Signatur": "My"
+      },
+      {
+        "CountyNo": "21",
+        "EPSG": "3006",
+        "EW": "613443",
+        "Id": "0dd84650-9145-4c28-b5e7-5cfa93029912",
+        "Namn": "Ljusne",
+        "NS": "6788302",
+        "Prognostisering": "true",
+        "Signatur": "Lse"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "284841",
+        "Id": "0e296101-8223-40b7-a13a-155ccea545a1",
+        "Namn": "Skee",
+        "NS": "6537538",
+        "Prognostisering": "true",
+        "Signatur": "Ske"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "284227",
+        "Id": "0e2dc237-045b-47c3-9d6a-86cb0d8d89b0",
+        "Namn": "Överby",
+        "NS": "6528662",
+        "Prognostisering": "true",
+        "Signatur": "Övb"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "322638",
+        "Id": "0f1850e0-1b91-4a20-804d-25d74642011d",
+        "Namn": "Surte",
+        "NS": "6413130",
+        "Prognostisering": "true",
+        "Signatur": "Sue"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "374640",
+        "Id": "0f9f187b-5c01-41ec-9ea9-bb643fa3b8cf",
+        "Namn": "Billeberga",
+        "NS": "6194958",
+        "Prognostisering": "true",
+        "Signatur": "Bib"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "507688",
+        "Id": "0fb1ca4e-1570-48c2-834a-75911b2b83a8",
+        "Namn": "Hult",
+        "NS": "6389138",
+        "Prognostisering": "true",
+        "Signatur": "Hul"
+      },
+      {
+        "CountyNo": "2",
+        "EPSG": "3006",
+        "EW": "679149",
+        "Id": "10029e32-52e9-435e-aaac-7c1b5653c6a2",
+        "Namn": "Handen",
+        "NS": "6562777",
+        "Prognostisering": "false",
+        "Signatur": "Hnd"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "412399",
+        "Id": "1025e6f7-3a9c-4d32-b729-8a3e60dbdc65",
+        "Namn": "Forshem",
+        "NS": "6498511",
+        "Prognostisering": "true",
+        "Signatur": "Fhm"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "374018",
+        "Id": "1039a2be-c8c4-42e0-90b6-be2243224fd2",
+        "Namn": "Triangeln",
+        "NS": "6162537",
+        "Prognostisering": "true",
+        "Signatur": "Tri"
+      },
+      {
+        "CountyNo": "17",
+        "EPSG": "3006",
+        "EW": "386518",
+        "Id": "107d8176-bd7d-4f08-bba6-239bcc2ae18a",
+        "Namn": "Värmlands Bro",
+        "NS": "6562380",
+        "Prognostisering": "true",
+        "Signatur": "Vdb"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "415715",
+        "Id": "123f9184-818c-455d-b686-dc374f86ee54",
+        "Namn": "Hestra",
+        "NS": "6367583",
+        "Prognostisering": "true",
+        "Signatur": "Het"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "370633",
+        "Id": "1276ec16-42c5-4816-bad5-24bf7f8da3cd",
+        "Namn": "Vårgårda",
+        "NS": "6434276",
+        "Prognostisering": "true",
+        "Signatur": "Vgå"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "343465",
+        "Id": "13515a48-c83d-4288-8b35-7d44a58b088c",
+        "Namn": "Långbron",
+        "NS": "6536160",
+        "Prognostisering": "true",
+        "Signatur": "Lgb"
+      },
+      {
+        "CountyNo": "20",
+        "EPSG": "3006",
+        "EW": "572694",
+        "Id": "13e6b9db-866a-48aa-8c06-bcc5ef22376f",
+        "Namn": "Fors",
+        "NS": "6675131",
+        "Prognostisering": "true",
+        "Signatur": "Fs"
+      },
+      {
+        "CountyNo": "2",
+        "EPSG": "3006",
+        "EW": "651243",
+        "Id": "146972c7-6949-4714-b99e-5b6c7c8ade60",
+        "Namn": "Södertälje Syd (SL)",
+        "NS": "6561248",
+        "Prognostisering": "false",
+        "Signatur": "Söu"
+      },
+      {
+        "CountyNo": "20",
+        "EPSG": "3006",
+        "EW": "510133",
+        "Id": "14996f66-15f3-4e82-b75c-9474b3a5c688",
+        "Namn": "Ludvika",
+        "NS": "6668117",
+        "Prognostisering": "true",
+        "Signatur": "La"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "498534",
+        "Id": "14d1a5cd-0b70-4d56-9216-a2a8eb2eedff",
+        "Namn": "Eksjö",
+        "NS": "6391276",
+        "Prognostisering": "true",
+        "Signatur": "Ek"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "481781",
+        "Id": "1676f269-61f8-41c5-a4af-1c3d2868eb49",
+        "Namn": "Nässjö C",
+        "NS": "6389937",
+        "Prognostisering": "true",
+        "Signatur": "N"
+      },
+      {
+        "CountyNo": "13",
+        "EPSG": "3006",
+        "EW": "394862",
+        "Id": "16d627d9-43dd-4072-9dd5-5fe2ef049038",
+        "Namn": "Landeryd",
+        "NS": "6327263",
+        "Prognostisering": "true",
+        "Signatur": "Lrd"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "332521",
+        "Id": "1782164e-8455-44c2-8447-a23ded0fe6fc",
+        "Namn": "Lödöse södra",
+        "NS": "6433853",
+        "Prognostisering": "true",
+        "Signatur": "Les"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "410778",
+        "Id": "17a7d322-a007-47b1-9d06-e371bf5d13e0",
+        "Namn": "Rydsgård",
+        "NS": "6148471",
+        "Prognostisering": "true",
+        "Signatur": "Rdg"
+      },
+      {
+        "CountyNo": "17",
+        "EPSG": "3006",
+        "EW": "404670",
+        "Id": "18c57fc9-a14d-4f21-80d8-2e08b0cc2446",
+        "Namn": "Kil",
+        "NS": "6597465",
+        "Prognostisering": "true",
+        "Signatur": "Kil"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "458158",
+        "Id": "1915a7da-82a0-4014-b588-256cc6996910",
+        "Namn": "Rydaholm",
+        "NS": "6316083",
+        "Prognostisering": "true",
+        "Signatur": "Rym"
+      },
+      {
+        "CountyNo": "17",
+        "EPSG": "3006",
+        "EW": "460988",
+        "Id": "1947f236-ddf4-45d8-b724-9c4d6c914d6b",
+        "Namn": "Nykroppa",
+        "NS": "6609572",
+        "Prognostisering": "false",
+        "Signatur": "Nka"
+      },
+      {
+        "CountyNo": "18",
+        "EPSG": "3006",
+        "EW": "511541",
+        "Id": "194847c5-5c04-4a40-935c-c4eca08eab4e",
+        "Namn": "Örebro Södra",
+        "NS": "6570134",
+        "Prognostisering": "true",
+        "Signatur": "Öb"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "459063",
+        "Id": "199ba105-6e49-4015-8008-6ac9aeb7e318",
+        "Namn": "Simrishamn",
+        "NS": "6156593",
+        "Prognostisering": "true",
+        "Signatur": "Si"
+      },
+      {
+        "CountyNo": "22",
+        "EPSG": "3006",
+        "EW": "618565",
+        "Id": "19e828d1-809d-43f4-acc6-5aac2c6695fc",
+        "Namn": "Sundsvall Västra",
+        "NS": "6919673",
+        "Prognostisering": "true",
+        "Signatur": "Suv"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "363978",
+        "Id": "1a064456-ce61-4091-bc6e-ae142d5a94de",
+        "Namn": "Påarp",
+        "NS": "6211486",
+        "Prognostisering": "true",
+        "Signatur": "Påa"
+      },
+      {
+        "CountyNo": "21",
+        "EPSG": "3006",
+        "EW": "561960",
+        "Id": "1a146ee5-c427-4882-90d4-0d74f3d36f92",
+        "Namn": "Järvsö",
+        "NS": "6843067",
+        "Prognostisering": "true",
+        "Signatur": "Jr"
+      },
+      {
+        "CountyNo": "100",
+        "EPSG": "3006",
+        "EW": "355099",
+        "Id": "1a73e038-63d1-4979-8605-4132a74b2fbc",
+        "Namn": "Kalvebod",
+        "NS": "6163988",
+        "Prognostisering": "false",
+        "Signatur": "Zklv"
+      },
+      {
+        "CountyNo": "18",
+        "EPSG": "3006",
+        "EW": "512909",
+        "Id": "1aa9ee94-64a2-49fb-9420-fb3aa46d4020",
+        "Namn": "Lindesberg",
+        "NS": "6606277",
+        "Prognostisering": "true",
+        "Signatur": "Ld"
+      },
+      {
+        "CountyNo": "23",
+        "EPSG": "3006",
+        "EW": "354604",
+        "Id": "1ab1dd16-0d5c-4e5e-b0c7-d43f7457b207",
+        "Namn": "Hell",
+        "NS": "7024068",
+        "Prognostisering": "false",
+        "Signatur": "Xhel"
+      },
+      {
+        "CountyNo": "19",
+        "EPSG": "3006",
+        "EW": "589691",
+        "Id": "1b40c105-ef8d-438d-91e7-f8bf7f08506b",
+        "Namn": "Sala",
+        "NS": "6644223",
+        "Prognostisering": "true",
+        "Signatur": "Sl"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "340418",
+        "Id": "1b593561-8431-4f09-8e8d-07cb6ae52126",
+        "Namn": "Öxnered",
+        "NS": "6471668",
+        "Prognostisering": "true",
+        "Signatur": "Öx"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "367959",
+        "Id": "1b861021-ec1c-48ba-83da-cc6cc5c76c13",
+        "Namn": "Åmål",
+        "NS": "6547498",
+        "Prognostisering": "true",
+        "Signatur": "Ål"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "363326",
+        "Id": "1bdb7e27-6d0e-4ed4-929b-42f73f5105fe",
+        "Namn": "Gantofta",
+        "NS": "6207027",
+        "Prognostisering": "true",
+        "Signatur": "Gan"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "371753",
+        "Id": "1c336022-1079-4474-9022-6b24214c03e0",
+        "Namn": "Tågarp",
+        "NS": "6199903",
+        "Prognostisering": "true",
+        "Signatur": "Tgp"
+      },
+      {
+        "CountyNo": "22",
+        "EPSG": "3006",
+        "EW": "641034",
+        "Id": "1c39c3e8-f4f0-4bbc-98e3-0aa68e7b7c18",
+        "Namn": "Kramfors",
+        "NS": "6980726",
+        "Prognostisering": "true",
+        "Signatur": "Krf"
+      },
+      {
+        "CountyNo": "7",
+        "EPSG": "3006",
+        "EW": "474281",
+        "Id": "1cc4a29d-4556-45ae-975f-125b52f241fb",
+        "Namn": "Moheda",
+        "NS": "6317813",
+        "Prognostisering": "true",
+        "Signatur": "Mo"
+      },
+      {
+        "CountyNo": "2",
+        "EPSG": "3006",
+        "EW": "648991",
+        "Id": "1ce3a819-7472-461e-945a-9685d9abfa79",
+        "Namn": "Bro",
+        "NS": "6600050",
+        "Prognostisering": "false",
+        "Signatur": "Bro"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "429415",
+        "Id": "1dae8ab0-3d7b-4c5c-84f3-110f7868d823",
+        "Namn": "Forsheda",
+        "NS": "6336165",
+        "Prognostisering": "true",
+        "Signatur": "Fod"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "351335",
+        "Id": "1edda132-44f8-4866-be41-efe6f66c174c",
+        "Namn": "Björketorp",
+        "NS": "6367730",
+        "Prognostisering": "true",
+        "Signatur": "Bjo"
+      },
+      {
+        "CountyNo": "24",
+        "EPSG": "3006",
+        "EW": "732865",
+        "Id": "1f227415-178d-45ea-a0ca-c8a1847a266c",
+        "Namn": "Vännäs",
+        "NS": "7095690",
+        "Prognostisering": "true",
+        "Signatur": "Vns"
+      },
+      {
+        "CountyNo": "7",
+        "EPSG": "3006",
+        "EW": "515810",
+        "Id": "1f4768ba-487a-4580-9c20-9ba7794da3e7",
+        "Namn": "Lessebo",
+        "NS": "6289650",
+        "Prognostisering": "true",
+        "Signatur": "Lo"
+      },
+      {
+        "CountyNo": "13",
+        "EPSG": "3006",
+        "EW": "385094",
+        "Id": "1fe6451c-2e21-4659-88e7-241a0ddd0c6c",
+        "Namn": "Kinnared",
+        "NS": "6321786",
+        "Prognostisering": "true",
+        "Signatur": "Kid"
+      },
+      {
+        "CountyNo": "8",
+        "EPSG": "3006",
+        "EW": "550107",
+        "Id": "1fe6ef24-b107-4c19-9c86-bd5a516078cd",
+        "Namn": "Astrid Lindgrens värld",
+        "NS": "6392583",
+        "Prognostisering": "true",
+        "Signatur": "Alv"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "382286",
+        "Id": "204059bb-6350-47ea-bcaa-513e133756d1",
+        "Namn": "Borgstena",
+        "NS": "6417409",
+        "Prognostisering": "true",
+        "Signatur": "Boa"
+      },
+      {
+        "CountyNo": "20",
+        "EPSG": "3006",
+        "EW": "476160",
+        "Id": "20898fce-963b-4833-9dd4-3a0fedb5e183",
+        "Namn": "Mora",
+        "NS": "6763838",
+        "Prognostisering": "true",
+        "Signatur": "Mra"
+      },
+      {
+        "CountyNo": "25",
+        "EPSG": "3006",
+        "EW": "651311",
+        "Id": "20a23a04-7466-4de6-b229-3a374cc8bce8",
+        "Namn": "Björkliden",
+        "NS": "7592925",
+        "Prognostisering": "true",
+        "Signatur": "Bln"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "498519",
+        "Id": "2154f78a-38ea-4279-b187-a8f7a70382a1",
+        "Namn": "Tjunnaryd",
+        "NS": "6373549",
+        "Prognostisering": "false",
+        "Signatur": "Tj"
+      },
+      {
+        "CountyNo": "22",
+        "EPSG": "3006",
+        "EW": "604062",
+        "Id": "215f6ea1-5de5-4732-bf52-2984acf1f366",
+        "Namn": "Långsele",
+        "NS": "7006918",
+        "Prognostisering": "true",
+        "Signatur": "Lsl"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "489943",
+        "Id": "21a1f313-d5ca-48d0-a784-42108219c7c5",
+        "Namn": "Ormaryd",
+        "NS": "6391498",
+        "Prognostisering": "true",
+        "Signatur": "Ory"
+      },
+      {
+        "CountyNo": "22",
+        "EPSG": "3006",
+        "EW": "582597",
+        "Id": "21c902d2-8bd0-4984-92e3-c85d52984f6b",
+        "Namn": "Stöde",
+        "NS": "6921968",
+        "Prognostisering": "true",
+        "Signatur": "Std"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "384319",
+        "Id": "21ccad08-62ef-427e-8220-143e143f87a9",
+        "Namn": "Trelleborg",
+        "NS": "6137360",
+        "Prognostisering": "false",
+        "Signatur": "Trg"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "376764",
+        "Id": "2207b909-fc1a-4b12-bbd7-dd9fc5207305",
+        "Namn": "Borås C",
+        "NS": "6399456",
+        "Prognostisering": "true",
+        "Signatur": "Bs"
+      },
+      {
+        "CountyNo": "22",
+        "EPSG": "3006",
+        "EW": "560149",
+        "Id": "22a24c69-3bc5-4519-903e-2de347abf54e",
+        "Namn": "Fränsta",
+        "NS": "6929982",
+        "Prognostisering": "true",
+        "Signatur": "Ft"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "377394",
+        "Id": "22c8a148-58f5-4fa4-b70f-f4df1154d45c",
+        "Namn": "Håkantorp",
+        "NS": "6464758",
+        "Prognostisering": "true",
+        "Signatur": "Håp"
+      },
+      {
+        "CountyNo": "17",
+        "EPSG": "3006",
+        "EW": "396262",
+        "Id": "23ddee7c-56d4-4d93-ad21-c41b6e74ccf6",
+        "Namn": "Sunne",
+        "NS": "6634543",
+        "Prognostisering": "true",
+        "Signatur": "Sun"
+      },
+      {
+        "CountyNo": "25",
+        "EPSG": "3006",
+        "EW": "633605",
+        "Id": "23e92f0c-0b9f-4e8b-8f22-569543c8e54b",
+        "Namn": "Vassijaure",
+        "NS": "7594293",
+        "Prognostisering": "true",
+        "Signatur": "Vj"
+      },
+      {
+        "CountyNo": "2",
+        "EPSG": "3006",
+        "EW": "665004",
+        "Id": "2432e508-6310-4696-8ed2-fb9654628330",
+        "Namn": "Arlanda C",
+        "NS": "6615971",
+        "Prognostisering": "true",
+        "Signatur": "Arnc"
+      },
+      {
+        "CountyNo": "21",
+        "EPSG": "3006",
+        "EW": "569404",
+        "Id": "24b64160-8b9a-4dc2-a49c-28888f9ba978",
+        "Namn": "Hofors",
+        "NS": "6715515",
+        "Prognostisering": "true",
+        "Signatur": "Hfr"
+      },
+      {
+        "CountyNo": "8",
+        "EPSG": "3006",
+        "EW": "597013",
+        "Id": "25121f45-701a-4330-9c49-8a3ea8662689",
+        "Namn": "Tjustskolan",
+        "NS": "6402353",
+        "Prognostisering": "false",
+        "Signatur": "Tjsk"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "323384",
+        "Id": "255a47f2-38e5-4141-8397-fe07cedf0d96",
+        "Namn": "Ed",
+        "NS": "6534469",
+        "Prognostisering": "true",
+        "Signatur": "Ed"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "386970",
+        "Id": "25602017-cdd7-4a51-b6f2-347631404e64",
+        "Namn": "Stångby",
+        "NS": "6179686",
+        "Prognostisering": "true",
+        "Signatur": "Stb"
+      },
+      {
+        "CountyNo": "2",
+        "EPSG": "3006",
+        "EW": "667991",
+        "Id": "25b791d2-c7ff-4ed1-abaa-13110ad6ef87",
+        "Namn": "Segersäng",
+        "NS": "6547018",
+        "Prognostisering": "false",
+        "Signatur": "Ssä"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "367762",
+        "Id": "26c80076-2abe-4f70-ab17-8748eb7abd4b",
+        "Namn": "Fritsla",
+        "NS": "6381627",
+        "Prognostisering": "true",
+        "Signatur": "Frl"
+      },
+      {
+        "CountyNo": "8",
+        "EPSG": "3006",
+        "EW": "545917",
+        "Id": "27f802cb-b040-472b-8b90-4de77b047971",
+        "Namn": "Örsjö",
+        "NS": "6283879",
+        "Prognostisering": "true",
+        "Signatur": "Örs"
+      },
+      {
+        "CountyNo": "8",
+        "EPSG": "3006",
+        "EW": "579621",
+        "Id": "28348494-d30f-4d52-a824-4b2c6faf85f3",
+        "Namn": "Ankarsrum",
+        "NS": "6396045",
+        "Prognostisering": "false",
+        "Signatur": "Akm"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "444326",
+        "Id": "28e06326-ec80-479e-915d-626b38a56eb8",
+        "Namn": "Smedstorp",
+        "NS": "6156300",
+        "Prognostisering": "true",
+        "Signatur": "Smp"
+      },
+      {
+        "CountyNo": "22",
+        "EPSG": "3006",
+        "EW": "619690",
+        "Id": "2900eb19-30f9-4521-ad82-64330d6962eb",
+        "Namn": "Sundsvall C",
+        "NS": "6919389",
+        "Prognostisering": "true",
+        "Signatur": "Suc"
+      },
+      {
+        "CountyNo": "3",
+        "EPSG": "3006",
+        "EW": "631641",
+        "Id": "29214fd0-d930-4c7f-bac3-62bb2399dbc9",
+        "Namn": "Skutskär",
+        "NS": "6723163",
+        "Prognostisering": "true",
+        "Signatur": "Sur"
+      },
+      {
+        "CountyNo": "8",
+        "EPSG": "3006",
+        "EW": "550787",
+        "Id": "29733ffb-8958-4c40-8087-2d4ff179bdfd",
+        "Namn": "Hultsfred",
+        "NS": "6371794",
+        "Prognostisering": "true",
+        "Signatur": "Hf"
+      },
+      {
+        "CountyNo": "2",
+        "EPSG": "3006",
+        "EW": "655929",
+        "Id": "2b214226-d8a7-4546-a7c5-0070fc3ca909",
+        "Namn": "Kungsängen",
+        "NS": "6596521",
+        "Prognostisering": "false",
+        "Signatur": "Kän"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "452309",
+        "Id": "2b9a38a7-adef-49a5-b168-1c74319e961e",
+        "Namn": "Rocksjön",
+        "NS": "6403947",
+        "Prognostisering": "true",
+        "Signatur": "Rkö"
+      },
+      {
+        "CountyNo": "2",
+        "EPSG": "3006",
+        "EW": "670634",
+        "Id": "2b9e0a97-baa7-4d15-94d2-5a1e50373ebb",
+        "Namn": "Hemfosa",
+        "NS": "6551515",
+        "Prognostisering": "false",
+        "Signatur": "Hfa"
+      },
+      {
+        "CountyNo": "20",
+        "EPSG": "3006",
+        "EW": "474250",
+        "Id": "2c1a2804-fac5-4376-94d7-ed536648090d",
+        "Namn": "Wibe",
+        "NS": "6761102",
+        "Prognostisering": "false",
+        "Signatur": "Wibe"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "437982",
+        "Id": "2c90ca4c-a124-4011-a0c8-e0f4f7f2eab8",
+        "Namn": "Osby",
+        "NS": "6248958",
+        "Prognostisering": "true",
+        "Signatur": "O"
+      },
+      {
+        "CountyNo": "17",
+        "EPSG": "3006",
+        "EW": "395770",
+        "Id": "2cb0ac74-4c4b-41f7-9ee5-1ab9718026ce",
+        "Namn": "Kolsnäs",
+        "NS": "6633471",
+        "Prognostisering": "false",
+        "Signatur": "Kns"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "381736",
+        "Id": "2cbe6a8d-5666-4a48-b666-1e5184799d62",
+        "Namn": "Fristad",
+        "NS": "6411237",
+        "Prognostisering": "true",
+        "Signatur": "Fra"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "433728",
+        "Id": "2ced92e5-75c0-42f8-a769-b4d47da4874a",
+        "Namn": "Tomelilla",
+        "NS": "6156035",
+        "Prognostisering": "true",
+        "Signatur": "Tli"
+      },
+      {
+        "CountyNo": "18",
+        "EPSG": "3006",
+        "EW": "496743",
+        "Id": "2d69ba4d-75e0-4cf7-b319-fba5ff02d4c4",
+        "Namn": "Ställdalen",
+        "NS": "6644109",
+        "Prognostisering": "true",
+        "Signatur": "Stl"
+      },
+      {
+        "CountyNo": "17",
+        "EPSG": "3006",
+        "EW": "380755",
+        "Id": "2e2b02d1-4493-4a2b-b271-8b45b1c7bce1",
+        "Namn": "Säffle",
+        "NS": "6556651",
+        "Prognostisering": "true",
+        "Signatur": "Sfl"
+      },
+      {
+        "CountyNo": "2",
+        "EPSG": "3006",
+        "EW": "651279",
+        "Id": "2eeff387-2df4-44d9-8571-2329a95f5ccb",
+        "Namn": "Södertälje hamn",
+        "NS": "6562834",
+        "Prognostisering": "false",
+        "Signatur": "Söd"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "359101",
+        "Id": "2f14577e-b6c6-4a7a-8d95-5bc2fe6833b9",
+        "Namn": "Skene",
+        "NS": "6374196",
+        "Prognostisering": "true",
+        "Signatur": "See"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "350027",
+        "Id": "2fc01286-7fd3-40f5-ac16-96e39cb6621d",
+        "Namn": "Buterud",
+        "NS": "6526609",
+        "Prognostisering": "true",
+        "Signatur": "But"
+      },
+      {
+        "CountyNo": "8",
+        "EPSG": "3006",
+        "EW": "597825",
+        "Id": "30aa6965-3972-4b5e-949d-bc7d27d46e10",
+        "Namn": "Västervik",
+        "NS": "6402739",
+        "Prognostisering": "true",
+        "Signatur": "Vk"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "366989",
+        "Id": "30d32e20-c84c-46ce-af24-80b05a31954c",
+        "Namn": "Ängelholm",
+        "NS": "6235616",
+        "Prognostisering": "true",
+        "Signatur": "Ä"
+      },
+      {
+        "CountyNo": "20",
+        "EPSG": "3006",
+        "EW": "529893",
+        "Id": "30f50965-86f6-4497-970b-13f9260e0d7c",
+        "Namn": "Söderbärke",
+        "NS": "6659606",
+        "Prognostisering": "true",
+        "Signatur": "Sre"
+      },
+      {
+        "CountyNo": "20",
+        "EPSG": "3006",
+        "EW": "507597",
+        "Id": "31387dd8-762f-4d53-a7ee-2daa2b8cd949",
+        "Namn": "Djurås",
+        "NS": "6713797",
+        "Prognostisering": "true",
+        "Signatur": "Då"
+      },
+      {
+        "CountyNo": "8",
+        "EPSG": "3006",
+        "EW": "597699",
+        "Id": "31699f08-a757-43bc-8908-a11bdc794d14",
+        "Namn": "Verkebäck",
+        "NS": "6402700",
+        "Prognostisering": "false",
+        "Signatur": "Vbä"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "360868",
+        "Id": "3173f1c6-294e-4a2e-ac4e-0c15a4071af6",
+        "Namn": "Ättekulla",
+        "NS": "6210727",
+        "Prognostisering": "false",
+        "Signatur": "Ätk"
+      },
+      {
+        "CountyNo": "22",
+        "EPSG": "3006",
+        "EW": "664981",
+        "Id": "3217fb17-2b25-4a0e-bf9c-07c3ed8952c0",
+        "Namn": "Mellansel",
+        "NS": "7037563",
+        "Prognostisering": "true",
+        "Signatur": "Msl"
+      },
+      {
+        "CountyNo": "4",
+        "EPSG": "3006",
+        "EW": "585559",
+        "Id": "3298ee29-308f-4f75-a476-fc2c267c6f31",
+        "Namn": "Eskilstuna C",
+        "NS": "6582152",
+        "Prognostisering": "true",
+        "Signatur": "Et"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "372378",
+        "Id": "32dbfa68-e048-4e2f-ad97-f07395813e0f",
+        "Namn": "Hyllie",
+        "NS": "6159320",
+        "Prognostisering": "true",
+        "Signatur": "Hie"
+      },
+      {
+        "CountyNo": "21",
+        "EPSG": "3006",
+        "EW": "627363",
+        "Id": "335cc0d2-8e46-489a-9984-e9bd504738a5",
+        "Namn": "Furuvik",
+        "NS": "6726219",
+        "Prognostisering": "true",
+        "Signatur": "Fvk"
+      },
+      {
+        "CountyNo": "100",
+        "EPSG": "3006",
+        "EW": "350463",
+        "Id": "3363540b-6c7e-4783-a9f7-ad33a6fb5527",
+        "Namn": "Helsingör",
+        "NS": "6212388",
+        "Prognostisering": "false",
+        "Signatur": "Dk.hg"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "504902",
+        "Id": "3396040a-7af0-4634-8516-d59d889f8cad",
+        "Namn": "Vetlanda",
+        "NS": "6364804",
+        "Prognostisering": "true",
+        "Signatur": "Vta"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "350634",
+        "Id": "33bcff92-b5d2-4733-a142-843a40cae2c0",
+        "Namn": "Håverud",
+        "NS": "6523407",
+        "Prognostisering": "true",
+        "Signatur": "Hvr"
+      },
+      {
+        "CountyNo": "18",
+        "EPSG": "3006",
+        "EW": "477851",
+        "Id": "33be6954-0b7a-49de-9c08-ad2261ddfe8d",
+        "Namn": "Laxå",
+        "NS": "6538882",
+        "Prognostisering": "true",
+        "Signatur": "Lå"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "372666",
+        "Id": "33c14e50-f4ce-4244-80f9-a04209b3b816",
+        "Namn": "Åstorp",
+        "NS": "6222807",
+        "Prognostisering": "true",
+        "Signatur": "Åp"
+      },
+      {
+        "CountyNo": "19",
+        "EPSG": "3006",
+        "EW": "545497",
+        "Id": "33fc89df-0561-408d-8fb6-49b1230c4fd1",
+        "Namn": "Fagersta C",
+        "NS": "6650639",
+        "Prognostisering": "true",
+        "Signatur": "Fgc"
+      },
+      {
+        "CountyNo": "24",
+        "EPSG": "3006",
+        "EW": "723637",
+        "Id": "33fe1e0f-c564-45d2-bb14-3269dd94fac3",
+        "Namn": "Hällnäs",
+        "NS": "7139196",
+        "Prognostisering": "true",
+        "Signatur": "Hls"
+      },
+      {
+        "CountyNo": "4",
+        "EPSG": "3006",
+        "EW": "632674",
+        "Id": "34765673-2785-4405-b2de-fb23db5089aa",
+        "Namn": "Gnesta",
+        "NS": "6547755",
+        "Prognostisering": "true",
+        "Signatur": "Gn"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "321230",
+        "Id": "348eef51-be5f-4c1c-952e-ed857dd1599c",
+        "Namn": "Uddevalla Östra",
+        "NS": "6471776",
+        "Prognostisering": "true",
+        "Signatur": "Uö"
+      },
+      {
+        "CountyNo": "2",
+        "EPSG": "3006",
+        "EW": "674467",
+        "Id": "349a33da-d0c8-4ff6-963a-ffb91b8f6181",
+        "Namn": "Tungelsta",
+        "NS": "6555486",
+        "Prognostisering": "false",
+        "Signatur": "Ts"
+      },
+      {
+        "CountyNo": "13",
+        "EPSG": "3006",
+        "EW": "339402",
+        "Id": "34e58a78-89b7-4b76-be46-5e9a1950b484",
+        "Namn": "Veddige",
+        "NS": "6350213",
+        "Prognostisering": "true",
+        "Signatur": "Vdi"
+      },
+      {
+        "CountyNo": "5",
+        "EPSG": "3006",
+        "EW": "502805",
+        "Id": "351a12ad-32f9-4d45-b581-3b8e4d0ad981",
+        "Namn": "Motala C",
+        "NS": "6488556",
+        "Prognostisering": "true",
+        "Signatur": "Mot"
+      },
+      {
+        "CountyNo": "17",
+        "EPSG": "3006",
+        "EW": "389860",
+        "Id": "356880e7-db87-45af-85ed-859900cabdfa",
+        "Namn": "Högboda",
+        "NS": "6603750",
+        "Prognostisering": "true",
+        "Signatur": "Hbd"
+      },
+      {
+        "CountyNo": "24",
+        "EPSG": "3006",
+        "EW": "743239",
+        "Id": "35d85071-5ef4-494e-b7ab-78f4baf97bbf",
+        "Namn": "Hörnefors",
+        "NS": "7065470",
+        "Prognostisering": "true",
+        "Signatur": "Höf"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "355055",
+        "Id": "360b32d5-23f2-4b44-a5a0-a62bbceff2c5",
+        "Namn": "Bollebygd",
+        "NS": "6394294",
+        "Prognostisering": "true",
+        "Signatur": "Boy"
+      },
+      {
+        "CountyNo": "10",
+        "EPSG": "3006",
+        "EW": "537284",
+        "Id": "36f7e5b2-7507-42eb-aa5e-b578dbc780e0",
+        "Namn": "Bergåsa",
+        "NS": "6226478",
+        "Prognostisering": "true",
+        "Signatur": "Båa"
+      },
+      {
+        "CountyNo": "19",
+        "EPSG": "3006",
+        "EW": "591435",
+        "Id": "371d4886-a597-4e3b-93ba-c30473c116a9",
+        "Namn": "Tillberga",
+        "NS": "6617720",
+        "Prognostisering": "true",
+        "Signatur": "Tb"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "408994",
+        "Id": "373975b4-129a-4043-9219-51679fabf8b1",
+        "Namn": "Höör",
+        "NS": "6200084",
+        "Prognostisering": "true",
+        "Signatur": "Hö"
+      },
+      {
+        "CountyNo": "17",
+        "EPSG": "3006",
+        "EW": "392752",
+        "Id": "38460f42-99d0-4dc0-add7-678decc2f3bd",
+        "Namn": "Grums",
+        "NS": "6580879",
+        "Prognostisering": "true",
+        "Signatur": "Gms"
+      },
+      {
+        "CountyNo": "8",
+        "EPSG": "3006",
+        "EW": "587914",
+        "Id": "39c0015d-274e-4432-91f3-f42963ddfc18",
+        "Namn": "Oskarshamn",
+        "NS": "6347593",
+        "Prognostisering": "true",
+        "Signatur": "Oh"
+      },
+      {
+        "CountyNo": "4",
+        "EPSG": "3006",
+        "EW": "569475",
+        "Id": "3a4b55a6-6bc2-42a5-a91b-7c2861ced8f7",
+        "Namn": "Katrineholm C",
+        "NS": "6540292",
+        "Prognostisering": "true",
+        "Signatur": "K"
+      },
+      {
+        "CountyNo": "25",
+        "EPSG": "3006",
+        "EW": "701000",
+        "Id": "3a788bec-4c99-46d3-a79f-da5d3217aa4d",
+        "Namn": "Rensjön",
+        "NS": "7558605",
+        "Prognostisering": "true",
+        "Signatur": "Rsn"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "379179",
+        "Id": "3a816525-fe5e-4a3e-8bb5-a50e040ac94f",
+        "Namn": "Burlöv",
+        "NS": "6167787",
+        "Prognostisering": "true",
+        "Signatur": "Blv"
+      },
+      {
+        "CountyNo": "23",
+        "EPSG": "3006",
+        "EW": "515888",
+        "Id": "3b67d784-4885-448a-8485-d42e391a943e",
+        "Namn": "Stavre",
+        "NS": "6966253",
+        "Prognostisering": "true",
+        "Signatur": "Stv"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "432611",
+        "Id": "3b7a6703-bbae-443b-b15b-2213b7a12d3d",
+        "Namn": "Vinslöv",
+        "NS": "6218286",
+        "Prognostisering": "true",
+        "Signatur": "Vöv"
+      },
+      {
+        "CountyNo": "2",
+        "EPSG": "3006",
+        "EW": "665733",
+        "Id": "3b89795d-0cfe-4fd0-9a35-32f9c7894b98",
+        "Namn": "Norrviken",
+        "NS": "6594848",
+        "Prognostisering": "false",
+        "Signatur": "Nvk"
+      },
+      {
+        "CountyNo": "18",
+        "EPSG": "3006",
+        "EW": "468061",
+        "Id": "3be9e20f-21c5-4888-8f20-b1ad8aa6fa6c",
+        "Namn": "Degerfors",
+        "NS": "6565672",
+        "Prognostisering": "true",
+        "Signatur": "Dg"
+      },
+      {
+        "CountyNo": "21",
+        "EPSG": "3006",
+        "EW": "581824",
+        "Id": "3c1bfe95-6cbb-4140-8a27-336ecd12772f",
+        "Namn": "Torsåker",
+        "NS": "6709648",
+        "Prognostisering": "true",
+        "Signatur": "Tså"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "319667",
+        "Id": "3c47db92-6573-41c2-ad4f-7fffda9633c9",
+        "Namn": "Svenshögen",
+        "NS": "6448919",
+        "Prognostisering": "true",
+        "Signatur": "Svg"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "328447",
+        "Id": "3ce05a89-9ce9-4f18-b36f-31cbdafe048d",
+        "Namn": "Mölnlycke",
+        "NS": "6394317",
+        "Prognostisering": "true",
+        "Signatur": "Myk"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "442923",
+        "Id": "3cfdaa77-23c8-490f-ad11-923956a03972",
+        "Namn": "Hörle",
+        "NS": "6346622",
+        "Prognostisering": "false",
+        "Signatur": "Hrl"
+      },
+      {
+        "CountyNo": "21",
+        "EPSG": "3006",
+        "EW": "590340",
+        "Id": "3d8c624e-ae09-4c0a-8527-6707e32c23cc",
+        "Namn": "Lingbo",
+        "NS": "6768947",
+        "Prognostisering": "true",
+        "Signatur": "Lb"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "351282",
+        "Id": "3d9b3fcd-2d84-4b26-b984-81a3b9bf1491",
+        "Namn": "Åsensbruk",
+        "NS": "6521237",
+        "Prognostisering": "true",
+        "Signatur": "Åb"
+      },
+      {
+        "CountyNo": "2",
+        "EPSG": "3006",
+        "EW": "670885",
+        "Id": "3db4e289-14e0-4867-b087-5a0436f86331",
+        "Namn": "Stuvsta",
+        "NS": "6572252",
+        "Prognostisering": "false",
+        "Signatur": "Sta"
+      },
+      {
+        "CountyNo": "19",
+        "EPSG": "3006",
+        "EW": "556365",
+        "Id": "3db86358-d739-46b8-a3d1-e3bbb1c29fde",
+        "Namn": "Ängelsberg",
+        "NS": "6647050",
+        "Prognostisering": "true",
+        "Signatur": "Äbg"
+      },
+      {
+        "CountyNo": "21",
+        "EPSG": "3006",
+        "EW": "627783",
+        "Id": "3eef7648-37b1-4a12-bb34-910b3d1877fd",
+        "Namn": "Furuvik",
+        "NS": "6726169",
+        "Prognostisering": "false",
+        "Signatur": "Fvks"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "443411",
+        "Id": "402f4653-87be-4d33-b45c-e8c7a9e879a4",
+        "Namn": "Rörstorp",
+        "NS": "6336955",
+        "Prognostisering": "true",
+        "Signatur": "Röp"
+      },
+      {
+        "CountyNo": "8",
+        "EPSG": "3006",
+        "EW": "532818",
+        "Id": "40d707b7-e7c9-4d6d-b0f6-c8a69a382ff1",
+        "Namn": "Emmaboda",
+        "NS": "6276305",
+        "Prognostisering": "true",
+        "Signatur": "Em"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "418865",
+        "Id": "40da44b9-6a96-4564-a131-c21373e9e7b4",
+        "Namn": "Svarte",
+        "NS": "6143229",
+        "Prognostisering": "true",
+        "Signatur": "Ste"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "347369",
+        "Id": "40e2c632-386a-44f1-a3c5-efe59f039716",
+        "Namn": "Vargön",
+        "NS": "6471725",
+        "Prognostisering": "true",
+        "Signatur": "Vag"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "378521",
+        "Id": "416ba42c-3c19-46b8-9e8d-8541fb9b787c",
+        "Namn": "Stora Levene",
+        "NS": "6466869",
+        "Prognostisering": "true",
+        "Signatur": "Stlv"
+      },
+      {
+        "CountyNo": "20",
+        "EPSG": "3006",
+        "EW": "504438",
+        "Id": "41f0e16d-ec4f-43d9-8ff8-0fb14919ad9e",
+        "Namn": "Gagnef",
+        "NS": "6718099",
+        "Prognostisering": "true",
+        "Signatur": "Gnf"
+      },
+      {
+        "CountyNo": "25",
+        "EPSG": "3006",
+        "EW": "655634",
+        "Id": "4277ed19-07e0-4884-be36-4bb655f38d54",
+        "Namn": "Abisko turiststation",
+        "NS": "7587481",
+        "Prognostisering": "true",
+        "Signatur": "Akt"
+      },
+      {
+        "CountyNo": "17",
+        "EPSG": "3006",
+        "EW": "396677",
+        "Id": "427ef01d-e3cd-4092-8ef8-6176a9af5e77",
+        "Namn": "Bäckebron",
+        "NS": "6615090",
+        "Prognostisering": "true",
+        "Signatur": "Bäb"
+      },
+      {
+        "CountyNo": "24",
+        "EPSG": "3006",
+        "EW": "675551",
+        "Id": "42d8896e-0653-4bb8-a782-62e3723b4b1e",
+        "Namn": "Lycksele",
+        "NS": "7168317",
+        "Prognostisering": "true",
+        "Signatur": "Ly"
+      },
+      {
+        "CountyNo": "2",
+        "EPSG": "3006",
+        "EW": "650142",
+        "Id": "4339ff00-c719-4f2d-a409-fab30802e54a",
+        "Namn": "Södertälje centrum",
+        "NS": "6564295",
+        "Prognostisering": "false",
+        "Signatur": "Söc"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "425669",
+        "Id": "44fcef07-42f8-4121-9431-58e8c87b36ec",
+        "Namn": "Ystad",
+        "NS": "6142978",
+        "Prognostisering": "true",
+        "Signatur": "Y"
+      },
+      {
+        "CountyNo": "17",
+        "EPSG": "3006",
+        "EW": "414717",
+        "Id": "4502010c-1369-4586-9c46-b5ae5f7cb0d3",
+        "Namn": "Karlstad C",
+        "NS": "6583093",
+        "Prognostisering": "true",
+        "Signatur": "Ks"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "313613",
+        "Id": "4506021d-58ee-4c82-9b8f-10674e4c5c55",
+        "Namn": "Kode",
+        "NS": "6426870",
+        "Prognostisering": "true",
+        "Signatur": "Kde"
+      },
+      {
+        "CountyNo": "10",
+        "EPSG": "3006",
+        "EW": "533449",
+        "Id": "4515d0cd-ccd5-4583-abf1-094fdfc78c8c",
+        "Namn": "Holmsjö",
+        "NS": "6253207",
+        "Prognostisering": "true",
+        "Signatur": "Hmö"
+      },
+      {
+        "CountyNo": "23",
+        "EPSG": "3006",
+        "EW": "481431",
+        "Id": "46427c93-0cf7-4180-a5b1-ea55252c54ba",
+        "Namn": "Östersund Västra",
+        "NS": "7005535",
+        "Prognostisering": "true",
+        "Signatur": "Ösv"
+      },
+      {
+        "CountyNo": "2",
+        "EPSG": "3006",
+        "EW": "675527",
+        "Id": "46683a6c-d48c-46f3-8dd1-72066989bb2a",
+        "Namn": "Krigslida",
+        "NS": "6556210",
+        "Prognostisering": "false",
+        "Signatur": "Kda"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "446576",
+        "Id": "4683fe4f-295c-4b13-b98a-f19c6f084623",
+        "Namn": "Ekeryd",
+        "NS": "6385580",
+        "Prognostisering": "false",
+        "Signatur": "Eky"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "439551",
+        "Id": "46bc0be4-f019-4566-82c3-af9e23675d64",
+        "Namn": "Lunnarp",
+        "NS": "6155422",
+        "Prognostisering": "true",
+        "Signatur": "Lup"
+      },
+      {
+        "CountyNo": "3",
+        "EPSG": "3006",
+        "EW": "652177",
+        "Id": "46d925f1-c40a-403b-af4b-8fed1874d64d",
+        "Namn": "Vattholma",
+        "NS": "6657351",
+        "Prognostisering": "true",
+        "Signatur": "Vha"
+      },
+      {
+        "CountyNo": "20",
+        "EPSG": "3006",
+        "EW": "476160",
+        "Id": "47754623-1fdc-494d-97fe-b41b8262a846",
+        "Namn": "Morastrand",
+        "NS": "6763838",
+        "Prognostisering": "true",
+        "Signatur": "Mras"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "401065",
+        "Id": "4824b3ca-5a27-4193-bcb2-2b7eff9f63e0",
+        "Namn": "Källby",
+        "NS": "6486806",
+        "Prognostisering": "true",
+        "Signatur": "Kll"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "393873",
+        "Id": "48f6e972-48ff-4c8e-a2de-104c353bcf59",
+        "Namn": "Eslöv",
+        "NS": "6189313",
+        "Prognostisering": "true",
+        "Signatur": "E"
+      },
+      {
+        "CountyNo": "21",
+        "EPSG": "3006",
+        "EW": "609009",
+        "Id": "4aa3fb08-f6d9-4a7d-b58d-563ce61d7295",
+        "Namn": "Söderhamn",
+        "NS": "6797836",
+        "Prognostisering": "true",
+        "Signatur": "Shv"
+      },
+      {
+        "CountyNo": "19",
+        "EPSG": "3006",
+        "EW": "567838",
+        "Id": "4ae4646d-530b-4d5a-9af7-03cb00fca8f3",
+        "Namn": "Ramnäs",
+        "NS": "6626390",
+        "Prognostisering": "true",
+        "Signatur": "Rmn"
+      },
+      {
+        "CountyNo": "7",
+        "EPSG": "3006",
+        "EW": "451798",
+        "Id": "4b016947-5436-4ce9-9681-237b264e4ae7",
+        "Namn": "Diö",
+        "NS": "6276820",
+        "Prognostisering": "true",
+        "Signatur": "Dis"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "412950",
+        "Id": "4c315e87-eb3c-46e5-b4ba-a3e397f7fc00",
+        "Namn": "Tyringe",
+        "NS": "6224732",
+        "Prognostisering": "true",
+        "Signatur": "Ty"
+      },
+      {
+        "CountyNo": "19",
+        "EPSG": "3006",
+        "EW": "578515",
+        "Id": "4c41b908-5ae6-4d9e-8908-8d24fdadb3a9",
+        "Namn": "Dingtuna",
+        "NS": "6604520",
+        "Prognostisering": "true",
+        "Signatur": "Dt"
+      },
+      {
+        "CountyNo": "7",
+        "EPSG": "3006",
+        "EW": "472966",
+        "Id": "4c55f657-6b9f-4f01-9b77-4fdc2f69c6cd",
+        "Namn": "Alvesta",
+        "NS": "6306122",
+        "Prognostisering": "true",
+        "Signatur": "Av"
+      },
+      {
+        "CountyNo": "13",
+        "EPSG": "3006",
+        "EW": "326462",
+        "Id": "4cba8049-cc0f-4ecd-88b0-95c036c30e0d",
+        "Namn": "Anneberg",
+        "NS": "6381052",
+        "Prognostisering": "true",
+        "Signatur": "Ag"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "414834",
+        "Id": "4cf3507b-b7fe-463b-b2be-2f0521309011",
+        "Namn": "Falköping C",
+        "NS": "6449191",
+        "Prognostisering": "true",
+        "Signatur": "F"
+      },
+      {
+        "CountyNo": "17",
+        "EPSG": "3006",
+        "EW": "357148",
+        "Id": "4d7194aa-e1ff-48c6-96fb-e918435a186b",
+        "Namn": "Ottebol",
+        "NS": "6620509",
+        "Prognostisering": "true",
+        "Signatur": "Ot"
+      },
+      {
+        "CountyNo": "24",
+        "EPSG": "3006",
+        "EW": "760375",
+        "Id": "4db83dbe-a0f7-4264-b943-baa93e41db0c",
+        "Namn": "Umeå östra",
+        "NS": "7087563",
+        "Prognostisering": "true",
+        "Signatur": "Uåö"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "397829",
+        "Id": "4dec394d-f89a-43a6-9118-506db829c7f6",
+        "Namn": "Filsbäck",
+        "NS": "6484951",
+        "Prognostisering": "true",
+        "Signatur": "Fiä"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "370007",
+        "Id": "4e34f3bb-5665-47ae-a7e9-5f5448e4c511",
+        "Namn": "Bjuv",
+        "NS": "6217236",
+        "Prognostisering": "true",
+        "Signatur": "Bjuv"
+      },
+      {
+        "CountyNo": "17",
+        "EPSG": "3006",
+        "EW": "391035",
+        "Id": "4e77d5dc-f7c1-4631-8935-4596ec3dfebc",
+        "Namn": "Oleby",
+        "NS": "6667492",
+        "Prognostisering": "false",
+        "Signatur": "Ol"
+      },
+      {
+        "CountyNo": "3",
+        "EPSG": "3006",
+        "EW": "617735",
+        "Id": "4ea87674-cd71-4486-a1b6-9b2a3f91f6f9",
+        "Namn": "Enköping",
+        "NS": "6613682",
+        "Prognostisering": "true",
+        "Signatur": "Ep"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "423897",
+        "Id": "50bbd886-aec1-488c-bddb-eaee08ff2800",
+        "Namn": "Gnosjö",
+        "NS": "6358003",
+        "Prognostisering": "true",
+        "Signatur": "Gnö"
+      },
+      {
+        "CountyNo": "5",
+        "EPSG": "3006",
+        "EW": "545842",
+        "Id": "50bda7b3-42ac-41bf-82ae-24ffd983698d",
+        "Namn": "Linghem",
+        "NS": "6477552",
+        "Prognostisering": "true",
+        "Signatur": "Lgm"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "379876",
+        "Id": "510527b0-b0d8-4568-9688-f17c8e4685e9",
+        "Namn": "Oxie",
+        "NS": "6156714",
+        "Prognostisering": "true",
+        "Signatur": "Ox"
+      },
+      {
+        "CountyNo": "21",
+        "EPSG": "3006",
+        "EW": "610270",
+        "Id": "5124b436-09a5-457b-8ba9-03abe15b45a0",
+        "Namn": "Iggesund",
+        "NS": "6836373",
+        "Prognostisering": "true",
+        "Signatur": "Id"
+      },
+      {
+        "CountyNo": "7",
+        "EPSG": "3006",
+        "EW": "515116",
+        "Id": "51385e02-10d1-49b3-9712-00b7284b0487",
+        "Namn": "Ösjöbol",
+        "NS": "6338801",
+        "Prognostisering": "false",
+        "Signatur": "Öbl"
+      },
+      {
+        "CountyNo": "19",
+        "EPSG": "3006",
+        "EW": "569699",
+        "Id": "51acac1e-822d-4249-981b-c5d298cfe84a",
+        "Namn": "Kolbäck",
+        "NS": "6603534",
+        "Prognostisering": "true",
+        "Signatur": "Kbä"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "454721",
+        "Id": "52239bee-0c41-49a8-a458-9dd1d6474322",
+        "Namn": "Hova",
+        "NS": "6524147",
+        "Prognostisering": "true",
+        "Signatur": "Hova"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "431970",
+        "Id": "523569eb-4f42-4c1f-8ca9-8bc52f3a4170",
+        "Namn": "Mariestad",
+        "NS": "6508497",
+        "Prognostisering": "true",
+        "Signatur": "Mst"
+      },
+      {
+        "CountyNo": "4",
+        "EPSG": "3006",
+        "EW": "620594",
+        "Id": "52666754-7721-4651-9b20-2529afd4c795",
+        "Namn": "Sarpsborg",
+        "NS": "6573022",
+        "Prognostisering": "false",
+        "Signatur": "No.sbo"
+      },
+      {
+        "CountyNo": "20",
+        "EPSG": "3006",
+        "EW": "567566",
+        "Id": "528a9a96-168e-443c-a6dd-960443a3b3e4",
+        "Namn": "Avesta Krylbo",
+        "NS": "6666459",
+        "Prognostisering": "true",
+        "Signatur": "Avky"
+      },
+      {
+        "CountyNo": "23",
+        "EPSG": "3006",
+        "EW": "354604",
+        "Id": "52aabdf6-430b-436f-a8c9-76893513660d",
+        "Namn": "Trondheim",
+        "NS": "7024068",
+        "Prognostisering": "false",
+        "Signatur": "No.tnd"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "447307",
+        "Id": "52bdd6f1-eec5-4f0c-8784-86cd48238d2a",
+        "Namn": "Norrahammar",
+        "NS": "6396139",
+        "Prognostisering": "true",
+        "Signatur": "Nhr"
+      },
+      {
+        "CountyNo": "2",
+        "EPSG": "3006",
+        "EW": "662769",
+        "Id": "52f95da0-128f-4549-9764-f9fd4848cba2",
+        "Namn": "Barkarby",
+        "NS": "6588561",
+        "Prognostisering": "false",
+        "Signatur": "Bkb"
+      },
+      {
+        "CountyNo": "25",
+        "EPSG": "3006",
+        "EW": "712244",
+        "Id": "5331c73e-fadd-4b67-93de-214052155dc2",
+        "Namn": "Krokvik",
+        "NS": "7543901",
+        "Prognostisering": "true",
+        "Signatur": "Kv"
+      },
+      {
+        "CountyNo": "24",
+        "EPSG": "3006",
+        "EW": "758960",
+        "Id": "53eeeaba-92a2-4c29-8635-64d124de832e",
+        "Namn": "Umeå C",
+        "NS": "7088780",
+        "Prognostisering": "true",
+        "Signatur": "Uå"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "438635",
+        "Id": "546f84f7-1039-4ca1-b067-65400042f7de",
+        "Namn": "Hasslerör",
+        "NS": "6512722",
+        "Prognostisering": "true",
+        "Signatur": "Hsr"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "348250",
+        "Id": "5475c740-21d8-4a05-9b79-521e8248f969",
+        "Namn": "Horred",
+        "NS": "6359575",
+        "Prognostisering": "true",
+        "Signatur": "Hre"
+      },
+      {
+        "CountyNo": "2",
+        "EPSG": "3006",
+        "EW": "659134",
+        "Id": "54a3debc-24be-4beb-ac78-bdee7bb74901",
+        "Namn": "Kallhäll",
+        "NS": "6593781",
+        "Prognostisering": "false",
+        "Signatur": "Khä"
+      },
+      {
+        "CountyNo": "25",
+        "EPSG": "3006",
+        "EW": "628293",
+        "Id": "54ea0ca2-c701-42be-9ef7-f922b90a6b1a",
+        "Namn": "Narvik",
+        "NS": "7593580",
+        "Prognostisering": "false",
+        "Signatur": "No.nk"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "384899",
+        "Id": "567c3146-3b2e-4009-a6b6-f09d68842532",
+        "Namn": "Ljung",
+        "NS": "6428860",
+        "Prognostisering": "true",
+        "Signatur": "Lju"
+      },
+      {
+        "CountyNo": "8",
+        "EPSG": "3006",
+        "EW": "552728",
+        "Id": "5682b6df-ddfd-4bb5-a2f5-2937aba4ad8c",
+        "Namn": "Mörlunda",
+        "NS": "6353608",
+        "Prognostisering": "true",
+        "Signatur": "Möa"
+      },
+      {
+        "CountyNo": "13",
+        "EPSG": "3006",
+        "EW": "376174",
+        "Id": "569a18fa-1b0d-49dd-b911-afa0b70c7c4b",
+        "Namn": "Oskarström",
+        "NS": "6297681",
+        "Prognostisering": "true",
+        "Signatur": "Om"
+      },
+      {
+        "CountyNo": "2",
+        "EPSG": "3006",
+        "EW": "661368",
+        "Id": "56a42dc9-db45-4b7c-8692-2ccbbf1f493f",
+        "Namn": "Märsta",
+        "NS": "6613430",
+        "Prognostisering": "true",
+        "Signatur": "Mr"
+      },
+      {
+        "CountyNo": "18",
+        "EPSG": "3006",
+        "EW": "507917",
+        "Id": "56cad95c-d92d-4999-b6eb-6032b524ca55",
+        "Namn": "Storå",
+        "NS": "6620113",
+        "Prognostisering": "true",
+        "Signatur": "Sr"
+      },
+      {
+        "CountyNo": "19",
+        "EPSG": "3006",
+        "EW": "562586",
+        "Id": "5728d29c-efbe-4f99-8a92-b07a9c2ac1c7",
+        "Namn": "Kungsör",
+        "NS": "6588208",
+        "Prognostisering": "true",
+        "Signatur": "Kör"
+      },
+      {
+        "CountyNo": "8",
+        "EPSG": "3006",
+        "EW": "549581",
+        "Id": "577c6143-a932-4385-87bb-5a95194d1de6",
+        "Namn": "Målilla",
+        "NS": "6361068",
+        "Prognostisering": "false",
+        "Signatur": "Måa"
+      },
+      {
+        "CountyNo": "25",
+        "EPSG": "3006",
+        "EW": "775107",
+        "Id": "57b774c5-42b7-4204-901c-196a350592c7",
+        "Namn": "Älvsbyn",
+        "NS": "7297175",
+        "Prognostisering": "true",
+        "Signatur": "Äy"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "423681",
+        "Id": "5829d52b-c261-4923-ad7e-89842b355031",
+        "Namn": "Bredaryd",
+        "NS": "6337744",
+        "Prognostisering": "true",
+        "Signatur": "Bdy"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "404136",
+        "Id": "588f8fbc-900a-4b71-b8f0-a541beffb31e",
+        "Namn": "Smålandsstenar",
+        "NS": "6336471",
+        "Prognostisering": "true",
+        "Signatur": "Sdr"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "393078",
+        "Id": "59ad33a0-1090-4e59-b49f-363feb5756b9",
+        "Namn": "Lidköping",
+        "NS": "6486328",
+        "Prognostisering": "true",
+        "Signatur": "Lkp"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "327535",
+        "Id": "5a45f590-1911-4e33-84b5-75047896a6b8",
+        "Namn": "Partille",
+        "NS": "6403532",
+        "Prognostisering": "true",
+        "Signatur": "P"
+      },
+      {
+        "CountyNo": "25",
+        "EPSG": "3006",
+        "EW": "704657",
+        "Id": "5a67594a-0790-4c00-af8c-e06141b3eec9",
+        "Namn": "Rautas",
+        "NS": "7550344",
+        "Prognostisering": "true",
+        "Signatur": "Rut"
+      },
+      {
+        "CountyNo": "19",
+        "EPSG": "3006",
+        "EW": "568847",
+        "Id": "5aea2e0a-cce3-45c4-a05c-b1f09b559ea3",
+        "Namn": "Hallstahammar",
+        "NS": "6609130",
+        "Prognostisering": "true",
+        "Signatur": "Hh"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "359761",
+        "Id": "5bb0ee43-39be-4014-9e26-9ca7d463e00a",
+        "Namn": "Ödåkra",
+        "NS": "6220025",
+        "Prognostisering": "true",
+        "Signatur": "Öda"
+      },
+      {
+        "CountyNo": "22",
+        "EPSG": "3006",
+        "EW": "620084",
+        "Id": "5cbd4bb2-10ce-4412-9f6d-6e078d121fd1",
+        "Namn": "Timrå",
+        "NS": "6930534",
+        "Prognostisering": "true",
+        "Signatur": "Trå"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "388343",
+        "Id": "5cf461e5-59a4-4876-9c4e-711227189397",
+        "Namn": "Svedala",
+        "NS": "6152619",
+        "Prognostisering": "true",
+        "Signatur": "Sea"
+      },
+      {
+        "CountyNo": "20",
+        "EPSG": "3006",
+        "EW": "523385",
+        "Id": "5d196ab0-d1bf-4fd7-9d74-1bb11e1b2b0c",
+        "Namn": "Borlänge C",
+        "NS": "6705273",
+        "Prognostisering": "true",
+        "Signatur": "Blg"
+      },
+      {
+        "CountyNo": "25",
+        "EPSG": "3006",
+        "EW": "717148",
+        "Id": "5d43b581-5bd7-422e-9013-88ddb17d4f82",
+        "Namn": "Fjällåsen",
+        "NS": "7498205",
+        "Prognostisering": "true",
+        "Signatur": "Fjå"
+      },
+      {
+        "CountyNo": "7",
+        "EPSG": "3006",
+        "EW": "508528",
+        "Id": "5e4f87af-ec25-457e-8ca4-6fd78fc9696d",
+        "Namn": "Hovmantorp",
+        "NS": "6293598",
+        "Prognostisering": "true",
+        "Signatur": "Hvp"
+      },
+      {
+        "CountyNo": "23",
+        "EPSG": "3006",
+        "EW": "403832",
+        "Id": "5e66d5c3-75f0-4dd5-a876-fe2f76bde75f",
+        "Namn": "Åre",
+        "NS": "7031535",
+        "Prognostisering": "true",
+        "Signatur": "Åre"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "488831",
+        "Id": "5e7686f6-3370-44ae-8c91-afc2d09ba512",
+        "Namn": "Aneby",
+        "NS": "6410627",
+        "Prognostisering": "true",
+        "Signatur": "Any"
+      },
+      {
+        "CountyNo": "24",
+        "EPSG": "3006",
+        "EW": "736499",
+        "Id": "5ecb91d0-980b-406d-ae6e-2a4f84f91ecc",
+        "Namn": "Jörn",
+        "NS": "7223817",
+        "Prognostisering": "true",
+        "Signatur": "Jrn"
+      },
+      {
+        "CountyNo": "21",
+        "EPSG": "3006",
+        "EW": "584067",
+        "Id": "5f1be77e-237f-4740-86b0-4115934a30c5",
+        "Namn": "Storvik",
+        "NS": "6717197",
+        "Prognostisering": "true",
+        "Signatur": "Sv"
+      },
+      {
+        "EPSG": "3006",
+        "EW": "616160",
+        "Id": "5f480280-1f38-421b-922f-2ee70b74a183",
+        "Namn": "Rombak",
+        "NS": "7589613",
+        "Prognostisering": "false",
+        "Signatur": "No.rom"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "383776",
+        "Id": "5fcd977c-b9ab-4804-a9d8-247cb9a6bbf6",
+        "Namn": "Klippan",
+        "NS": "6222200",
+        "Prognostisering": "true",
+        "Signatur": "Kl"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "356429",
+        "Id": "60333ee1-2aee-4da8-a4f7-974524c047a9",
+        "Namn": "Ramlösa",
+        "NS": "6213321",
+        "Prognostisering": "true",
+        "Signatur": "Hbgb"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "350843",
+        "Id": "61649e3c-a483-4004-a68c-66fb3e66a764",
+        "Namn": "Rävlanda",
+        "NS": "6392987",
+        "Prognostisering": "true",
+        "Signatur": "Rd"
+      },
+      {
+        "CountyNo": "17",
+        "EPSG": "3006",
+        "EW": "419467",
+        "Id": "620d4e3a-677c-44fd-8249-0c299fa833e4",
+        "Namn": "Välsviken",
+        "NS": "6584464",
+        "Prognostisering": "true",
+        "Signatur": "Kvä"
+      },
+      {
+        "CountyNo": "20",
+        "EPSG": "3006",
+        "EW": "501110",
+        "Id": "623b41be-319e-4906-91a1-c82ab1f14140",
+        "Namn": "Tällberg",
+        "NS": "6742600",
+        "Prognostisering": "true",
+        "Signatur": "Tlg"
+      },
+      {
+        "CountyNo": "20",
+        "EPSG": "3006",
+        "EW": "522531",
+        "Id": "63d6f19b-401e-42a7-a5a2-b81592d8ac97",
+        "Namn": "Smedjebacken",
+        "NS": "6666683",
+        "Prognostisering": "true",
+        "Signatur": "Smj"
+      },
+      {
+        "CountyNo": "23",
+        "EPSG": "3006",
+        "EW": "432733",
+        "Id": "64112a6e-35a7-469e-bc72-84963d332bd9",
+        "Namn": "Mörsil",
+        "NS": "7020670",
+        "Prognostisering": "true",
+        "Signatur": "Mi"
+      },
+      {
+        "CountyNo": "3",
+        "EPSG": "3006",
+        "EW": "652263",
+        "Id": "670d0b07-2064-40f9-af5c-2a22dac7035e",
+        "Namn": "Skyttorp",
+        "NS": "6663405",
+        "Prognostisering": "true",
+        "Signatur": "Syt"
+      },
+      {
+        "CountyNo": "10",
+        "EPSG": "3006",
+        "EW": "517593",
+        "Id": "68435e62-1e5a-47f2-8058-830978079e26",
+        "Namn": "Ronneby",
+        "NS": "6229093",
+        "Prognostisering": "true",
+        "Signatur": "Rb"
+      },
+      {
+        "CountyNo": "3",
+        "EPSG": "3006",
+        "EW": "666138",
+        "Id": "68c66a22-a6ef-4a18-94a0-1fde2a7b6510",
+        "Namn": "Kongsvinger",
+        "NS": "6676590",
+        "Prognostisering": "false",
+        "Signatur": "No.kvg"
+      },
+      {
+        "CountyNo": "5",
+        "EPSG": "3006",
+        "EW": "568681",
+        "Id": "68cb9d8f-f516-429b-8a54-056babc381e0",
+        "Namn": "Norrköping C",
+        "NS": "6495702",
+        "Prognostisering": "true",
+        "Signatur": "Nr"
+      },
+      {
+        "CountyNo": "23",
+        "EPSG": "3006",
+        "EW": "491542",
+        "Id": "6ae32fb1-48ac-4f50-96be-b5e683ce28cd",
+        "Namn": "Brunflo",
+        "NS": "6994065",
+        "Prognostisering": "true",
+        "Signatur": "Bf"
+      },
+      {
+        "CountyNo": "3",
+        "EPSG": "3006",
+        "EW": "648345",
+        "Id": "6bd33b59-4d25-41cc-9703-249b3dcd32ec",
+        "Namn": "Uppsala C",
+        "NS": "6638550",
+        "Prognostisering": "true",
+        "Signatur": "U"
+      },
+      {
+        "CountyNo": "13",
+        "EPSG": "3006",
+        "EW": "324976",
+        "Id": "6c06bd16-391f-4465-b58f-c5b068d53861",
+        "Namn": "Kungsbacka",
+        "NS": "6375640",
+        "Prognostisering": "true",
+        "Signatur": "Kb"
+      },
+      {
+        "CountyNo": "18",
+        "EPSG": "3006",
+        "EW": "508068",
+        "Id": "6c092f4e-e7c3-4c3f-96d1-553f331879e0",
+        "Namn": "Kumla",
+        "NS": "6554263",
+        "Prognostisering": "true",
+        "Signatur": "Kla"
+      },
+      {
+        "CountyNo": "22",
+        "EPSG": "3006",
+        "EW": "554997",
+        "Id": "6c865325-d4a6-4d0a-89b4-30afac6b6e85",
+        "Namn": "Ljungaverk",
+        "NS": "6929845",
+        "Prognostisering": "true",
+        "Signatur": "Ljv"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "363490",
+        "Id": "6d4ea574-7ac4-4b49-95ec-af7618ecd8a0",
+        "Namn": "Glumslöv",
+        "NS": "6202006",
+        "Prognostisering": "true",
+        "Signatur": "Glv"
+      },
+      {
+        "CountyNo": "25",
+        "EPSG": "3006",
+        "EW": "829942",
+        "Id": "6d4ea698-3943-4053-9192-359889d58c0d",
+        "Namn": "Luleå C",
+        "NS": "7292372",
+        "Prognostisering": "true",
+        "Signatur": "Le"
+      },
+      {
+        "CountyNo": "10",
+        "EPSG": "3006",
+        "EW": "484046",
+        "Id": "6d7c7df1-111e-44fd-81e5-188f59eb08c2",
+        "Namn": "Mörrum",
+        "NS": "6226906",
+        "Prognostisering": "true",
+        "Signatur": "Mru"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "401424",
+        "Id": "6dbb127b-6a15-4877-8fa5-2c9607ebba06",
+        "Namn": "Limmared",
+        "NS": "6378024",
+        "Prognostisering": "true",
+        "Signatur": "Lme"
+      },
+      {
+        "CountyNo": "17",
+        "EPSG": "3006",
+        "EW": "384989",
+        "Id": "6dceb785-03c6-43f5-8b84-5748d2c9f652",
+        "Namn": "Brunsberg",
+        "NS": "6610594",
+        "Prognostisering": "true",
+        "Signatur": "Buk"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "456551",
+        "Id": "6e14e394-a94e-4062-b6ec-745a82520927",
+        "Namn": "Hok",
+        "NS": "6374851",
+        "Prognostisering": "true",
+        "Signatur": "Hokö"
+      },
+      {
+        "CountyNo": "2",
+        "EPSG": "3006",
+        "EW": "678848",
+        "Id": "6e6bc35f-11e5-4533-9eb8-a04af07a828f",
+        "Namn": "Jordbro",
+        "NS": "6560092",
+        "Prognostisering": "false",
+        "Signatur": "Jbo"
+      },
+      {
+        "CountyNo": "17",
+        "EPSG": "3006",
+        "EW": "458808",
+        "Id": "6ee4f3c4-ee01-45f6-bcfc-b6c1450a4df3",
+        "Namn": "Storfors",
+        "NS": "6599633",
+        "Prognostisering": "false",
+        "Signatur": "Sf"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "312732",
+        "Id": "6ee92bd3-90a1-4327-9a26-e7b3a120adef",
+        "Namn": "Stenungsund",
+        "NS": "6441211",
+        "Prognostisering": "true",
+        "Signatur": "Snu"
+      },
+      {
+        "CountyNo": "2",
+        "EPSG": "3006",
+        "EW": "665884",
+        "Id": "6f142655-0890-4e88-83e8-2be164bd8a2a",
+        "Namn": "Tullinge",
+        "NS": "6566571",
+        "Prognostisering": "false",
+        "Signatur": "Tul"
+      },
+      {
+        "CountyNo": "23",
+        "EPSG": "3006",
+        "EW": "472351",
+        "Id": "6f4cc0c2-d0bb-41f2-b51d-3b8c1ca765d9",
+        "Namn": "Krokom",
+        "NS": "7022028",
+        "Prognostisering": "true",
+        "Signatur": "Krm"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "353852",
+        "Id": "6fd9efaa-1278-4248-89ab-f431e67eeb44",
+        "Namn": "Alingsås",
+        "NS": "6423240",
+        "Prognostisering": "true",
+        "Signatur": "A"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "353111",
+        "Id": "7035eec6-e258-4368-b610-8e232ad15dee",
+        "Namn": "Mellerud",
+        "NS": "6509629",
+        "Prognostisering": "true",
+        "Signatur": "Ml"
+      },
+      {
+        "CountyNo": "10",
+        "EPSG": "3006",
+        "EW": "491705",
+        "Id": "70b8d413-b79b-440f-8406-f9ca99dd3981",
+        "Namn": "Karlshamn",
+        "NS": "6225803",
+        "Prognostisering": "true",
+        "Signatur": "Kh"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "467732",
+        "Id": "71542719-99bc-46e0-9bc0-b6b4380d25d0",
+        "Namn": "Malmbäck",
+        "NS": "6381857",
+        "Prognostisering": "true",
+        "Signatur": "Mbä"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "432874",
+        "Id": "72702f14-d469-47b5-82c4-72e526e74f1b",
+        "Namn": "Skövde C",
+        "NS": "6472597",
+        "Prognostisering": "true",
+        "Signatur": "Sk"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "428576",
+        "Id": "72a390e4-8328-44f4-b3a5-d0c54c0b9fd0",
+        "Namn": "Ballingslöv",
+        "NS": "6230498",
+        "Prognostisering": "false",
+        "Signatur": "Bl"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "386054",
+        "Id": "73c00193-18cd-43e0-aab2-a1712b21e955",
+        "Namn": "Lund C",
+        "NS": "6174988",
+        "Prognostisering": "true",
+        "Signatur": "Lu"
+      },
+      {
+        "CountyNo": "2",
+        "EPSG": "3006",
+        "EW": "667293",
+        "Id": "751ab7ae-4e96-47da-b28f-ec6d8bfd698b",
+        "Namn": "Sollentuna",
+        "NS": "6591402",
+        "Prognostisering": "false",
+        "Signatur": "Sol"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "409015",
+        "Id": "75368c48-629a-486e-9e56-5b55b8aef18d",
+        "Namn": "Hällekis",
+        "NS": "6499922",
+        "Prognostisering": "true",
+        "Signatur": "Hlk"
+      },
+      {
+        "CountyNo": "7",
+        "EPSG": "3006",
+        "EW": "474943",
+        "Id": "75e1a64b-d505-4812-b57c-4487a0d84d91",
+        "Namn": "Lammhult",
+        "NS": "6336592",
+        "Prognostisering": "true",
+        "Signatur": "Lh"
+      },
+      {
+        "CountyNo": "25",
+        "EPSG": "3006",
+        "EW": "719175",
+        "Id": "769b3fe3-15be-4c5b-8886-153c6ad7a2ae",
+        "Namn": "Kiruna C",
+        "NS": "7535887",
+        "Prognostisering": "true",
+        "Signatur": "Kra"
+      },
+      {
+        "CountyNo": "5",
+        "EPSG": "3006",
+        "EW": "538591",
+        "Id": "77c78c7c-be50-4ca5-b5cc-c3b667a8923d",
+        "Namn": "Tannefors",
+        "NS": "6473480",
+        "Prognostisering": "true",
+        "Signatur": "Tn"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "444465",
+        "Id": "77d2b7c8-d1fb-4938-a547-c855eb6cc9e0",
+        "Namn": "Killeberg",
+        "NS": "6259294",
+        "Prognostisering": "false",
+        "Signatur": "Kr"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "383342",
+        "Id": "77f01ef4-a50d-4fea-8613-37899ad1b684",
+        "Namn": "Torpåkra",
+        "NS": "6423803",
+        "Prognostisering": "true",
+        "Signatur": "Top"
+      },
+      {
+        "CountyNo": "3",
+        "EPSG": "3006",
+        "EW": "632060",
+        "Id": "7882e46e-82cb-4f5d-97b5-9d597f1c186f",
+        "Namn": "Mehedeby",
+        "NS": "6704013",
+        "Prognostisering": "true",
+        "Signatur": "Meh"
+      },
+      {
+        "CountyNo": "8",
+        "EPSG": "3006",
+        "EW": "555597",
+        "Id": "78a3d616-aa6d-4805-bee1-24065129cf6e",
+        "Namn": "Nybro",
+        "NS": "6289081",
+        "Prognostisering": "true",
+        "Signatur": "Nyb"
+      },
+      {
+        "CountyNo": "17",
+        "EPSG": "3006",
+        "EW": "394571",
+        "Id": "797fcb2f-bd06-4f01-a713-6c18b3f04204",
+        "Namn": "Öjervik",
+        "NS": "6627698",
+        "Prognostisering": "false",
+        "Signatur": "Öjr"
+      },
+      {
+        "CountyNo": "2",
+        "EPSG": "3006",
+        "EW": "666805",
+        "Id": "7aa13be1-46a1-4735-b587-5ce167952d80",
+        "Namn": "Ösmo",
+        "NS": "6541950",
+        "Prognostisering": "false",
+        "Signatur": "Öso"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "461584",
+        "Id": "7afe9c42-2980-44f9-8207-28afbbce842d",
+        "Namn": "Gårdsjö",
+        "NS": "6526005",
+        "Prognostisering": "true",
+        "Signatur": "Gdö"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "348049",
+        "Id": "7b02286d-56ec-44eb-8bd3-d5dc57e01fe4",
+        "Namn": "Norsesund",
+        "NS": "6416149",
+        "Prognostisering": "true",
+        "Signatur": "Ns"
+      },
+      {
+        "CountyNo": "8",
+        "EPSG": "3006",
+        "EW": "580962",
+        "Id": "7bdc36eb-5e00-4e1e-b84e-7103a1ebce19",
+        "Namn": "Blomstermåla",
+        "NS": "6316028",
+        "Prognostisering": "true",
+        "Signatur": "Bma"
+      },
+      {
+        "CountyNo": "8",
+        "EPSG": "3006",
+        "EW": "566035",
+        "Id": "7cb92ebf-8519-4bd9-9ffd-1d0f29957fea",
+        "Namn": "Tuna",
+        "NS": "6382153",
+        "Prognostisering": "false",
+        "Signatur": "Tna"
+      },
+      {
+        "CountyNo": "8",
+        "EPSG": "3006",
+        "EW": "543090",
+        "Id": "7cd76cde-f353-4eae-9f6e-ce91b3cc41b1",
+        "Namn": "Lönneberga",
+        "NS": "6379090",
+        "Prognostisering": "true",
+        "Signatur": "Lön"
+      },
+      {
+        "CountyNo": "22",
+        "EPSG": "3006",
+        "EW": "685721",
+        "Id": "7d43302c-8905-4afe-8824-3017b51fd72c",
+        "Namn": "Örnsköldsvik C",
+        "NS": "7023094",
+        "Prognostisering": "true",
+        "Signatur": "Ök"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "382788",
+        "Id": "7d5e8bf4-c842-4ecb-8939-980072536251",
+        "Namn": "Hjärup",
+        "NS": "6171351",
+        "Prognostisering": "true",
+        "Signatur": "Hjp"
+      },
+      {
+        "CountyNo": "3",
+        "EPSG": "3006",
+        "EW": "656714",
+        "Id": "7ddcf4cc-cf20-484f-96d1-6b92dc541ecd",
+        "Namn": "Knivsta",
+        "NS": "6624124",
+        "Prognostisering": "true",
+        "Signatur": "Kn"
+      },
+      {
+        "CountyNo": "18",
+        "EPSG": "3006",
+        "EW": "472938",
+        "Id": "7f14b0ac-4a83-48f2-aaf6-36f7dc20025c",
+        "Namn": "Hällefors",
+        "NS": "6626758",
+        "Prognostisering": "false",
+        "Signatur": "Hlf"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "331801",
+        "Id": "8023ce97-3cd7-4197-afbc-d6e49a239e57",
+        "Namn": "Jonsered",
+        "NS": "6404370",
+        "Prognostisering": "true",
+        "Signatur": "Jv"
+      },
+      {
+        "CountyNo": "7",
+        "EPSG": "3006",
+        "EW": "521036",
+        "Id": "815ec151-5968-4646-afa1-8ceefc092db2",
+        "Namn": "Åseda",
+        "NS": "6336126",
+        "Prognostisering": "false",
+        "Signatur": "Åa"
+      },
+      {
+        "CountyNo": "17",
+        "EPSG": "3006",
+        "EW": "396356",
+        "Id": "81c3beac-fe83-4ef5-873b-19e6a13c9ddd",
+        "Namn": "Ivarsbjörke",
+        "NS": "6648359",
+        "Prognostisering": "false",
+        "Signatur": "Ibe"
+      },
+      {
+        "CountyNo": "2",
+        "EPSG": "3006",
+        "EW": "666342",
+        "Id": "81d4f04f-1678-4d0c-a9a9-d06858a50b91",
+        "Namn": "Häggvik",
+        "NS": "6593076",
+        "Prognostisering": "false",
+        "Signatur": "Hgv"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "285477",
+        "Id": "8297c555-0551-4cb0-b870-68f6d61556bb",
+        "Namn": "Tanum",
+        "NS": "6514089",
+        "Prognostisering": "true",
+        "Signatur": "Tnu"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "317132",
+        "Id": "83c632dc-2d49-4d10-bd8a-ccb1429c2c46",
+        "Namn": "Ytterby",
+        "NS": "6417547",
+        "Prognostisering": "true",
+        "Signatur": "Yb"
+      },
+      {
+        "CountyNo": "21",
+        "EPSG": "3006",
+        "EW": "572750",
+        "Id": "840e0df0-c7d4-47cb-81ed-e4603f7bebd3",
+        "Namn": "Vallsta",
+        "NS": "6821257",
+        "Prognostisering": "true",
+        "Signatur": "Vl"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "324721",
+        "Id": "842f760e-c4ec-4cca-9afc-5e0f3c2012bd",
+        "Namn": "Nödinge",
+        "NS": "6420568",
+        "Prognostisering": "true",
+        "Signatur": "Nöe"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "417355",
+        "Id": "84b7e2b2-f5ba-4ef3-ba14-1976f387dacf",
+        "Namn": "Vittsjö",
+        "NS": "6244984",
+        "Prognostisering": "false",
+        "Signatur": "Vsj"
+      },
+      {
+        "CountyNo": "20",
+        "EPSG": "3006",
+        "EW": "500191",
+        "Id": "84d016e8-656b-4e3b-a362-0bcda44fc31e",
+        "Namn": "Grängesberg",
+        "NS": "6659768",
+        "Prognostisering": "true",
+        "Signatur": "Gg"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "389783",
+        "Id": "86520f63-f554-4257-a1a5-12a4d354f606",
+        "Namn": "Örtofta",
+        "NS": "6182822",
+        "Prognostisering": "true",
+        "Signatur": "Ö"
+      },
+      {
+        "CountyNo": "20",
+        "EPSG": "3006",
+        "EW": "500164",
+        "Id": "868b65ed-71bc-4fc8-a8ed-c638bd314ecb",
+        "Namn": "Leksand",
+        "NS": "6733163",
+        "Prognostisering": "true",
+        "Signatur": "Lsd"
+      },
+      {
+        "CountyNo": "3",
+        "EPSG": "3006",
+        "EW": "603542",
+        "Id": "869719ee-2359-453f-8510-3fa8b9f893f7",
+        "Namn": "Heby",
+        "NS": "6646227",
+        "Prognostisering": "true",
+        "Signatur": "Hy"
+      },
+      {
+        "CountyNo": "24",
+        "EPSG": "3006",
+        "EW": "728727",
+        "Id": "86f33627-2213-48ca-8f88-2e71b87d3728",
+        "Namn": "Vindeln",
+        "NS": "7128236",
+        "Prognostisering": "true",
+        "Signatur": "Vdn"
+      },
+      {
+        "CountyNo": "2",
+        "EPSG": "3006",
+        "EW": "677618",
+        "Id": "871ac76c-5bc7-4ae3-8c9b-7ca6583e0b73",
+        "Namn": "Västerhaninge",
+        "NS": "6557882",
+        "Prognostisering": "false",
+        "Signatur": "Vhe"
+      },
+      {
+        "CountyNo": "23",
+        "EPSG": "3006",
+        "EW": "502049",
+        "Id": "873520c0-5508-41cd-806d-a74bbbc4a715",
+        "Namn": "Pilgrimstad",
+        "NS": "6980573",
+        "Prognostisering": "true",
+        "Signatur": "Pl"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "340374",
+        "Id": "889c1d23-c1be-4e58-818a-7dd0748cded6",
+        "Namn": "Stenkullen",
+        "NS": "6408690",
+        "Prognostisering": "true",
+        "Signatur": "Sn"
+      },
+      {
+        "CountyNo": "13",
+        "EPSG": "3006",
+        "EW": "370964",
+        "Id": "89ac944d-9f42-42c6-8f1e-ea1c8a8a7f8d",
+        "Namn": "Sannarp",
+        "NS": "6284465",
+        "Prognostisering": "true",
+        "Signatur": "Sarp"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "349375",
+        "Id": "89d9c174-d8f3-453a-b4e8-4f47b8fe48ff",
+        "Namn": "Tisselskog",
+        "NS": "6531548",
+        "Prognostisering": "true",
+        "Signatur": "Tsl"
+      },
+      {
+        "CountyNo": "17",
+        "EPSG": "3006",
+        "EW": "348856",
+        "Id": "8a0d2467-3105-4f79-b0b1-8274a56e7a50",
+        "Namn": "Charlottenberg",
+        "NS": "6641478",
+        "Prognostisering": "true",
+        "Signatur": "Cg"
+      },
+      {
+        "CountyNo": "2",
+        "EPSG": "3006",
+        "EW": "672397",
+        "Id": "8ad1ed4e-b91f-470d-92ce-b0d9c52abacf",
+        "Namn": "Årstaberg",
+        "NS": "6577311",
+        "Prognostisering": "false",
+        "Signatur": "Åbe"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "482160",
+        "Id": "8b492902-08f8-482c-a739-4fbb92b5713f",
+        "Namn": "Brinellskolan",
+        "NS": "6391946",
+        "Prognostisering": "true",
+        "Signatur": "Brin"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "381594",
+        "Id": "8b50272f-f98e-4e8c-aa41-6860bf7b9997",
+        "Namn": "Kävlinge",
+        "NS": "6184822",
+        "Prognostisering": "true",
+        "Signatur": "Kg"
+      },
+      {
+        "CountyNo": "100",
+        "EPSG": "3006",
+        "EW": "347093",
+        "Id": "8b73b929-d51e-4eae-a21a-eb132877913f",
+        "Namn": "Köpenhamn",
+        "NS": "6172713",
+        "Prognostisering": "false",
+        "Signatur": "Dk.kh"
+      },
+      {
+        "CountyNo": "2",
+        "EPSG": "3006",
+        "EW": "657205",
+        "Id": "8ba75aea-49b7-4c69-a68e-c1d3e1f94aab",
+        "Namn": "Rönninge",
+        "NS": "6564844",
+        "Prognostisering": "false",
+        "Signatur": "Rön"
+      },
+      {
+        "CountyNo": "17",
+        "EPSG": "3006",
+        "EW": "434849",
+        "Id": "8c0778ac-c71f-4b3e-a194-ef3911d1580b",
+        "Namn": "Väse",
+        "NS": "6583110",
+        "Prognostisering": "true",
+        "Signatur": "Ve"
+      },
+      {
+        "CountyNo": "23",
+        "EPSG": "3006",
+        "EW": "481778",
+        "Id": "8ccbb4d5-bb17-4b77-9aa2-0c642854c915",
+        "Namn": "Östersund C",
+        "NS": "7004584",
+        "Prognostisering": "true",
+        "Signatur": "Ös"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "341647",
+        "Id": "8d0a847c-6f34-4ff4-b23c-b9a5564a713e",
+        "Namn": "Trollhättan C",
+        "NS": "6463908",
+        "Prognostisering": "true",
+        "Signatur": "Thn"
+      },
+      {
+        "CountyNo": "20",
+        "EPSG": "3006",
+        "EW": "554221",
+        "Id": "8d26ac0f-2a99-4dee-873d-2645ed22da02",
+        "Namn": "Hedemora",
+        "NS": "6682341",
+        "Prognostisering": "true",
+        "Signatur": "Hdm"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "341903",
+        "Id": "8daa76bf-0e7b-439e-b9e0-638ef510a3a9",
+        "Namn": "Friluftsgården",
+        "NS": "6537821",
+        "Prognostisering": "true",
+        "Signatur": "Flgd"
+      },
+      {
+        "CountyNo": "3",
+        "EPSG": "3006",
+        "EW": "643031",
+        "Id": "8df265e9-59b5-4d26-a943-9cc7ccdef820",
+        "Namn": "Bålsta",
+        "NS": "6606187",
+        "Prognostisering": "true",
+        "Signatur": "Bål"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "534966",
+        "Id": "8e47823e-4a1d-4de2-970a-87ffa445dbd8",
+        "Namn": "Mariannelund",
+        "NS": "6386111",
+        "Prognostisering": "true",
+        "Signatur": "Mnd"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "448068",
+        "Id": "8e4eb2f1-d3c7-4250-808e-ebdfa96b85d0",
+        "Namn": "Torved",
+        "NS": "6521056",
+        "Prognostisering": "true",
+        "Signatur": "Tvd"
+      },
+      {
+        "CountyNo": "17",
+        "EPSG": "3006",
+        "EW": "401560",
+        "Id": "8f4f1fa0-ca71-4f58-a30f-159a2d3528ec",
+        "Namn": "Trångstad",
+        "NS": "6603119",
+        "Prognostisering": "false",
+        "Signatur": "Tgs"
+      },
+      {
+        "CountyNo": "21",
+        "EPSG": "3006",
+        "EW": "557756",
+        "Id": "8fb9e440-f626-4f02-bcb5-8e2f9d456693",
+        "Namn": "Ljusdal",
+        "NS": "6855374",
+        "Prognostisering": "true",
+        "Signatur": "Ls"
+      },
+      {
+        "CountyNo": "22",
+        "EPSG": "3006",
+        "EW": "707955",
+        "Id": "905ea682-e800-4164-b425-15fdc506a6e5",
+        "Namn": "Husum",
+        "NS": "7030704",
+        "Prognostisering": "true",
+        "Signatur": "Hum"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "341933",
+        "Id": "905f7f54-4017-4885-a016-2eaaecf27dde",
+        "Namn": "Billingsfors",
+        "NS": "6541296",
+        "Prognostisering": "true",
+        "Signatur": "Bfo"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "367582",
+        "Id": "90d9bd0c-84ff-4728-b428-b5f593e7fbfa",
+        "Namn": "Mörarp",
+        "NS": "6214279",
+        "Prognostisering": "true",
+        "Signatur": "Mör"
+      },
+      {
+        "CountyNo": "100",
+        "EPSG": "3006",
+        "EW": "347431",
+        "Id": "91016eda-687e-4807-b2a2-b29078c59f98",
+        "Namn": "Örestad",
+        "NS": "6167379",
+        "Prognostisering": "false",
+        "Signatur": "Dk.øre"
+      },
+      {
+        "CountyNo": "5",
+        "EPSG": "3006",
+        "EW": "525319",
+        "Id": "91225e2e-0253-44cf-97e9-30cfb34e3912",
+        "Namn": "Vikingstad",
+        "NS": "6471487",
+        "Prognostisering": "true",
+        "Signatur": "Vsd"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "361656",
+        "Id": "9141e9d6-448c-4673-a1c4-a953ac4ccb61",
+        "Namn": "Rydebäck",
+        "NS": "6204488",
+        "Prognostisering": "true",
+        "Signatur": "Ryä"
+      },
+      {
+        "CountyNo": "2",
+        "EPSG": "3006",
+        "EW": "669888",
+        "Id": "924ec94e-c43d-40f7-9fcb-5d311615036c",
+        "Namn": "Huddinge",
+        "NS": "6570098",
+        "Prognostisering": "false",
+        "Signatur": "Hu"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "432727",
+        "Id": "926a7f73-7695-4ba5-9d04-03ec251e5ba8",
+        "Namn": "Köpingebro",
+        "NS": "6146193",
+        "Prognostisering": "true",
+        "Signatur": "Köp"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "405082",
+        "Id": "9309a073-62a0-4624-bbb3-74ab948ff939",
+        "Namn": "Skurup",
+        "NS": "6149256",
+        "Prognostisering": "true",
+        "Signatur": "Srp"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "507418",
+        "Id": "933a2406-0983-4a20-a934-ac92b4eec0b0",
+        "Namn": "Korsberga",
+        "NS": "6350990",
+        "Prognostisering": "false",
+        "Signatur": "Kba"
+      },
+      {
+        "CountyNo": "25",
+        "EPSG": "3006",
+        "EW": "744773",
+        "Id": "934e23b0-7586-45b2-ab75-fbec7574c77d",
+        "Namn": "Gällivare",
+        "NS": "7457377",
+        "Prognostisering": "true",
+        "Signatur": "Gv"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "475772",
+        "Id": "936f7d71-4bd0-43fa-8c81-1559709f3a5e",
+        "Namn": "Fredriksdal",
+        "NS": "6386018",
+        "Prognostisering": "false",
+        "Signatur": "Fdl"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "444563",
+        "Id": "94057a9e-aefc-4135-9f64-89d03558ef95",
+        "Namn": "Månsarp",
+        "NS": "6390570",
+        "Prognostisering": "true",
+        "Signatur": "Måp"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "456278",
+        "Id": "94944ee9-cd44-47bc-82a7-6356c0503574",
+        "Namn": "Huskvarna",
+        "NS": "6404718",
+        "Prognostisering": "true",
+        "Signatur": "Hka"
+      },
+      {
+        "CountyNo": "17",
+        "EPSG": "3006",
+        "EW": "394016",
+        "Id": "94af45fe-8d8b-4016-b4a2-405c030aec77",
+        "Namn": "Badabruk",
+        "NS": "6659863",
+        "Prognostisering": "false",
+        "Signatur": "Bdb"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "377497",
+        "Id": "94dccf12-de29-4900-9e5a-03aade7547c5",
+        "Namn": "Knalleland",
+        "NS": "6400963",
+        "Prognostisering": "true",
+        "Signatur": "Knl"
+      },
+      {
+        "CountyNo": "2",
+        "EPSG": "3006",
+        "EW": "651885",
+        "Id": "95663e35-fa25-43a8-bc32-888554ff2a16",
+        "Namn": "Östertälje",
+        "NS": "6563678",
+        "Prognostisering": "false",
+        "Signatur": "Öte"
+      },
+      {
+        "CountyNo": "23",
+        "EPSG": "3006",
+        "EW": "354763",
+        "Id": "95b1f03b-cb2e-4ee0-9a6b-84107476a3d1",
+        "Namn": "Storlien",
+        "NS": "7024076",
+        "Prognostisering": "true",
+        "Signatur": "Str"
+      },
+      {
+        "CountyNo": "17",
+        "EPSG": "3006",
+        "EW": "364238",
+        "Id": "95ef6e44-894f-45bd-afb9-1d8bbcffdc43",
+        "Namn": "Arvika",
+        "NS": "6615302",
+        "Prognostisering": "true",
+        "Signatur": "Ar"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "459870",
+        "Id": "96353e40-21d6-4452-b88a-a7d1ec1a65d2",
+        "Namn": "Tenhult",
+        "NS": "6396091",
+        "Prognostisering": "true",
+        "Signatur": "Th"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "447694",
+        "Id": "96387765-4a3a-4601-8c00-944fe5fac722",
+        "Namn": "Bratteborg",
+        "NS": "6382023",
+        "Prognostisering": "false",
+        "Signatur": "Btg"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "448737",
+        "Id": "964f1f75-6c17-4e83-84d4-2a5265e918c9",
+        "Namn": "Byarum",
+        "NS": "6377405",
+        "Prognostisering": "false",
+        "Signatur": "Bym"
+      },
+      {
+        "CountyNo": "19",
+        "EPSG": "3006",
+        "EW": "591990",
+        "Id": "9657ed59-0c3f-455e-928e-5882fee1f98f",
+        "Namn": "Ransta",
+        "NS": "6631411",
+        "Prognostisering": "true",
+        "Signatur": "Rt"
+      },
+      {
+        "CountyNo": "17",
+        "EPSG": "3006",
+        "EW": "352103",
+        "Id": "976a7767-f624-4a05-90f1-87893f2c7817",
+        "Namn": "Åmotfors",
+        "NS": "6628557",
+        "Prognostisering": "true",
+        "Signatur": "Åt"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "447836",
+        "Id": "97934b0c-cb78-43f8-842d-834b3224ed6e",
+        "Namn": "Hovslätt",
+        "NS": "6399532",
+        "Prognostisering": "true",
+        "Signatur": "Hvs"
+      },
+      {
+        "CountyNo": "2",
+        "EPSG": "3006",
+        "EW": "664013",
+        "Id": "9837e27f-86aa-435c-8dee-83014884cafe",
+        "Namn": "Upplands Väsby",
+        "NS": "6601588",
+        "Prognostisering": "true",
+        "Signatur": "Upv"
+      },
+      {
+        "CountyNo": "3",
+        "EPSG": "3006",
+        "EW": "633551",
+        "Id": "989c59e7-a414-4d0c-aac7-f7716ce784ea",
+        "Namn": "Marma",
+        "NS": "6708617",
+        "Prognostisering": "true",
+        "Signatur": "Maa"
+      },
+      {
+        "CountyNo": "8",
+        "EPSG": "3006",
+        "EW": "562413",
+        "Id": "995e6f89-5d68-4f11-ac5f-7106bb41376e",
+        "Namn": "Berga",
+        "NS": "6341963",
+        "Prognostisering": "true",
+        "Signatur": "Bg"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "355956",
+        "Id": "99824e3b-5e06-45a3-9ba8-3bd0b6f945e4",
+        "Namn": "Berghem",
+        "NS": "6371922",
+        "Prognostisering": "true",
+        "Signatur": "Bgm"
+      },
+      {
+        "CountyNo": "19",
+        "EPSG": "3006",
+        "EW": "538770",
+        "Id": "99d13545-4fa6-4b22-a7da-9419b79314e9",
+        "Namn": "Skinnskatteberg",
+        "NS": "6632973",
+        "Prognostisering": "true",
+        "Signatur": "Skb"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "368475",
+        "Id": "9b8544a0-b1e7-49e2-bd66-b013f3433d6e",
+        "Namn": "Sandared",
+        "NS": "6398515",
+        "Prognostisering": "true",
+        "Signatur": "Sae"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "279823",
+        "Id": "9b885ebe-6649-416a-8424-2ef7bef2c69f",
+        "Namn": "Strömstad",
+        "NS": "6539287",
+        "Prognostisering": "true",
+        "Signatur": "Smd"
+      },
+      {
+        "CountyNo": "17",
+        "EPSG": "3006",
+        "EW": "377579",
+        "Id": "9c569630-1a10-4b73-bd9d-762aabfdee4b",
+        "Namn": "Edane",
+        "NS": "6611852",
+        "Prognostisering": "true",
+        "Signatur": "En"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "501134",
+        "Id": "9c5852a0-49c4-482d-af6e-0726195d7a5a",
+        "Namn": "Ekenässjön",
+        "NS": "6371989",
+        "Prognostisering": "true",
+        "Signatur": "Esn"
+      },
+      {
+        "CountyNo": "4",
+        "EPSG": "3006",
+        "EW": "623710",
+        "Id": "9e80b08c-c193-42ad-93af-a921e2895fa7",
+        "Namn": "Läggesta",
+        "NS": "6569630",
+        "Prognostisering": "true",
+        "Signatur": "Lg"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "498531",
+        "Id": "9ef922f6-d3b9-474e-bc0c-3c1545aa1ddc",
+        "Namn": "Tranås",
+        "NS": "6432951",
+        "Prognostisering": "true",
+        "Signatur": "Tns"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "416388",
+        "Id": "9f7c2c00-fdbd-4702-858a-81e332fef06b",
+        "Namn": "Österäng",
+        "NS": "6500207",
+        "Prognostisering": "true",
+        "Signatur": "Öäg"
+      },
+      {
+        "CountyNo": "22",
+        "EPSG": "3006",
+        "EW": "546968",
+        "Id": "a0d3470d-3ef4-4c0e-b599-7627c3a8d398",
+        "Namn": "Erikslund",
+        "NS": "6933266",
+        "Prognostisering": "true",
+        "Signatur": "Ei"
+      },
+      {
+        "CountyNo": "2",
+        "EPSG": "3006",
+        "EW": "668912",
+        "Id": "a0dba37c-5e2c-44ac-accb-87d67dbf95ca",
+        "Namn": "Sundbyberg",
+        "NS": "6584003",
+        "Prognostisering": "true",
+        "Signatur": "Sub"
+      },
+      {
+        "CountyNo": "22",
+        "EPSG": "3006",
+        "EW": "638878",
+        "Id": "a1340e2c-8115-4e51-8b0d-428b4cdbf7b2",
+        "Namn": "Västeraspby",
+        "NS": "6994763",
+        "Prognostisering": "true",
+        "Signatur": "Väy"
+      },
+      {
+        "CountyNo": "25",
+        "EPSG": "3006",
+        "EW": "818281",
+        "Id": "a1511079-637f-4681-a9c1-97bdeddf44be",
+        "Namn": "Sunderby sjukhus",
+        "NS": "7301076",
+        "Prognostisering": "true",
+        "Signatur": "Sus"
+      },
+      {
+        "CountyNo": "8",
+        "EPSG": "3006",
+        "EW": "578014",
+        "Id": "a1cf2229-7d69-4541-897a-6056e15b4695",
+        "Namn": "Överums Bruk",
+        "NS": "6428331",
+        "Prognostisering": "false",
+        "Signatur": "Övmb"
+      },
+      {
+        "CountyNo": "10",
+        "EPSG": "3006",
+        "EW": "536343",
+        "Id": "a253c1a6-c6f1-4870-9734-c2c22ce0be30",
+        "Namn": "Karlskrona C",
+        "NS": "6224827",
+        "Prognostisering": "true",
+        "Signatur": "Ck"
+      },
+      {
+        "CountyNo": "2",
+        "EPSG": "3006",
+        "EW": "651385",
+        "Id": "a33e131d-5ed9-4016-918b-bdc8cd98a2f3",
+        "Namn": "Södertälje Syd",
+        "NS": "6561240",
+        "Prognostisering": "true",
+        "Signatur": "Söö"
+      },
+      {
+        "CountyNo": "2",
+        "EPSG": "3006",
+        "EW": "662607",
+        "Id": "a367044d-6ce8-4c93-81a4-7c92d5ea55b4",
+        "Namn": "Rosersberg",
+        "NS": "6608649",
+        "Prognostisering": "false",
+        "Signatur": "Rs"
+      },
+      {
+        "CountyNo": "21",
+        "EPSG": "3006",
+        "EW": "597298",
+        "Id": "a6187a7f-1fa4-4151-a6cc-56099ed31de7",
+        "Namn": "Sandviken",
+        "NS": "6721135",
+        "Prognostisering": "true",
+        "Signatur": "Snv"
+      },
+      {
+        "CountyNo": "5",
+        "EPSG": "3006",
+        "EW": "579014",
+        "Id": "a62e85ba-170e-4e0d-af00-5af75f11ff1f",
+        "Namn": "Kolmården",
+        "NS": "6504633",
+        "Prognostisering": "true",
+        "Signatur": "Kon"
+      },
+      {
+        "CountyNo": "17",
+        "EPSG": "3006",
+        "EW": "397687",
+        "Id": "a65864e6-08f2-495a-b70d-3cae82d0e814",
+        "Namn": "Edsbjörke",
+        "NS": "6641827",
+        "Prognostisering": "false",
+        "Signatur": "Ebk"
+      },
+      {
+        "CountyNo": "2",
+        "EPSG": "3006",
+        "EW": "669443",
+        "Id": "a65d9297-8c7a-4ac4-ad3e-bb966743f297",
+        "Namn": "Nynäsgård",
+        "NS": "6534174",
+        "Prognostisering": "false",
+        "Signatur": "Ngd"
+      },
+      {
+        "CountyNo": "22",
+        "EPSG": "3006",
+        "EW": "650140",
+        "Id": "a6e038d1-51f8-4ae8-be4f-0311ef384b9a",
+        "Namn": "Härnösand",
+        "NS": "6948362",
+        "Prognostisering": "true",
+        "Signatur": "Hsd"
+      },
+      {
+        "CountyNo": "21",
+        "EPSG": "3006",
+        "EW": "584314",
+        "Id": "a6f114aa-6b10-4b7f-9d79-ed953348f0c3",
+        "Namn": "Kilafors",
+        "NS": "6789496",
+        "Prognostisering": "true",
+        "Signatur": "Kls"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "323196",
+        "Id": "a6f9db9a-b61f-4d0c-8fe3-d5f3a9dc51f7",
+        "Namn": "Bohus",
+        "NS": "6417465",
+        "Prognostisering": "true",
+        "Signatur": "Bhs"
+      },
+      {
+        "CountyNo": "19",
+        "EPSG": "3006",
+        "EW": "560711",
+        "Id": "a70e79f6-a8d4-4bfa-bff2-36c34fdf1faf",
+        "Namn": "Virsbo",
+        "NS": "6637637",
+        "Prognostisering": "true",
+        "Signatur": "Vso"
+      },
+      {
+        "CountyNo": "5",
+        "EPSG": "3006",
+        "EW": "556408",
+        "Id": "a8433f71-0f89-4350-b14b-1315ed2f6618",
+        "Namn": "Kimstad",
+        "NS": "6488824",
+        "Prognostisering": "true",
+        "Signatur": "Kms"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "475414",
+        "Id": "a873e88e-5a4b-496a-8c62-3629354840cb",
+        "Namn": "Stockaryd",
+        "NS": "6351951",
+        "Prognostisering": "true",
+        "Signatur": "Sy"
+      },
+      {
+        "CountyNo": "25",
+        "EPSG": "3006",
+        "EW": "761524",
+        "Id": "a8b06485-6389-491e-9fe8-25ab2654d717",
+        "Namn": "Murjek",
+        "NS": "7386195",
+        "Prognostisering": "true",
+        "Signatur": "Mk"
+      },
+      {
+        "CountyNo": "2",
+        "EPSG": "3006",
+        "EW": "638984",
+        "Id": "a90aa8cf-0cb1-4aca-8c00-dc0aaaa72c8c",
+        "Namn": "Nykvarn",
+        "NS": "6562488",
+        "Prognostisering": "true",
+        "Signatur": "Nkv"
+      },
+      {
+        "CountyNo": "100",
+        "EPSG": "3006",
+        "EW": "351856",
+        "Id": "a91b9cd2-7953-478d-966e-269842c83774",
+        "Namn": "Kastrup",
+        "NS": "6167258",
+        "Prognostisering": "false",
+        "Signatur": "Dk.cph"
+      },
+      {
+        "CountyNo": "17",
+        "EPSG": "3006",
+        "EW": "399185",
+        "Id": "a92ae9fe-2c7d-443a-986b-c89863b6649e",
+        "Namn": "Fagerås",
+        "NS": "6599283",
+        "Prognostisering": "true",
+        "Signatur": "Fgå"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "419219",
+        "Id": "aaf0fb33-d324-4026-9568-3afe7b7c8c04",
+        "Namn": "Äskekärr",
+        "NS": "6499252",
+        "Prognostisering": "true",
+        "Signatur": "Äsr"
+      },
+      {
+        "CountyNo": "2",
+        "EPSG": "3006",
+        "EW": "671567",
+        "Id": "ab430e62-d62f-4a33-aada-f918329f73af",
+        "Namn": "Älvsjö",
+        "NS": "6574951",
+        "Prognostisering": "true",
+        "Signatur": "Äs"
+      },
+      {
+        "CountyNo": "8",
+        "EPSG": "3006",
+        "EW": "544462",
+        "Id": "ab4b266c-014e-4ca8-a164-d48cca780625",
+        "Namn": "Silverdalen",
+        "NS": "6378040",
+        "Prognostisering": "true",
+        "Signatur": "Sic"
+      },
+      {
+        "CountyNo": "19",
+        "EPSG": "3006",
+        "EW": "587636",
+        "Id": "ac6d5646-99a1-44b4-b9ca-e31aaeee5702",
+        "Namn": "Västerås C",
+        "NS": "6608747",
+        "Prognostisering": "true",
+        "Signatur": "Vå"
+      },
+      {
+        "CountyNo": "8",
+        "EPSG": "3006",
+        "EW": "562137",
+        "Id": "aceac1dc-c2b6-4cb0-bd6f-69ef4befdab0",
+        "Namn": "Högsby",
+        "NS": "6336316",
+        "Prognostisering": "true",
+        "Signatur": "Höy"
+      },
+      {
+        "EPSG": "3006",
+        "EW": "621819",
+        "Id": "ad9cf8c3-110a-4ebb-ab78-733068609193",
+        "Namn": "Katterat",
+        "NS": "7590131",
+        "Prognostisering": "false",
+        "Signatur": "No.kat"
+      },
+      {
+        "CountyNo": "8",
+        "EPSG": "3006",
+        "EW": "551218",
+        "Id": "add6fb2e-bad1-4576-95d8-d65bf954739c",
+        "Namn": "Vimmerby",
+        "NS": "6391520",
+        "Prognostisering": "true",
+        "Signatur": "Vib"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "371326",
+        "Id": "ae232d98-eae5-4346-9b34-e76d1e30ace9",
+        "Namn": "Viskafors",
+        "NS": "6389481",
+        "Prognostisering": "true",
+        "Signatur": "Vfo"
+      },
+      {
+        "CountyNo": "24",
+        "EPSG": "3006",
+        "EW": "722400",
+        "Id": "ae7558d9-ef10-477e-a996-09bf961960b0",
+        "Namn": "Nordmaling",
+        "NS": "7057832",
+        "Prognostisering": "true",
+        "Signatur": "Nog"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "366559",
+        "Id": "af188031-8e7a-49f2-8e1d-35fd39e6c8de",
+        "Namn": "Vallåkra",
+        "NS": "6204117",
+        "Prognostisering": "true",
+        "Signatur": "Våk"
+      },
+      {
+        "CountyNo": "17",
+        "EPSG": "3006",
+        "EW": "396189",
+        "Id": "af281703-9a20-48da-97a0-09b4954632bf",
+        "Namn": "Lysvik",
+        "NS": "6654649",
+        "Prognostisering": "true",
+        "Signatur": "Lyv"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "450323",
+        "Id": "af778ee3-5bf9-49d2-bb91-7fb2e1d7960e",
+        "Namn": "Jönköping C",
+        "NS": "6405020",
+        "Prognostisering": "true",
+        "Signatur": "Jö"
+      },
+      {
+        "CountyNo": "2",
+        "EPSG": "3006",
+        "EW": "647135",
+        "Id": "afe37cbe-1183-44a7-b983-9dd4fe91332c",
+        "Namn": "Järna",
+        "NS": "6553329",
+        "Prognostisering": "false",
+        "Signatur": "Jn"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "343207",
+        "Id": "b0310cb2-c086-4741-842d-d29e7bbb136a",
+        "Namn": "Vänersborg C",
+        "NS": "6473870",
+        "Prognostisering": "true",
+        "Signatur": "Vg"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "448360",
+        "Id": "b0a6f0a2-2bd5-4d57-896d-5ff60e6b037b",
+        "Namn": "Gärsnäs",
+        "NS": "6155912",
+        "Prognostisering": "true",
+        "Signatur": "Gss"
+      },
+      {
+        "CountyNo": "2",
+        "EPSG": "3006",
+        "EW": "664563",
+        "Id": "b0e7db0d-9837-4d3e-8dd9-a75ef23fdac0",
+        "Namn": "Spånga",
+        "NS": "6586405",
+        "Prognostisering": "false",
+        "Signatur": "Spå"
+      },
+      {
+        "CountyNo": "23",
+        "EPSG": "3006",
+        "EW": "411745",
+        "Id": "b15e71c5-1e3a-4701-b310-d97745f24f93",
+        "Namn": "Undersåker",
+        "NS": "7021898",
+        "Prognostisering": "true",
+        "Signatur": "Un"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "373395",
+        "Id": "b165c3a4-51da-4e2e-86ae-9277da9330fc",
+        "Namn": "Svågertorp / Malmö Syd",
+        "NS": "6157521",
+        "Prognostisering": "true",
+        "Signatur": "Stp"
+      },
+      {
+        "CountyNo": "100",
+        "EPSG": "3006",
+        "EW": "348919",
+        "Id": "b20dd31e-9680-4fe2-920c-268f3b73bc7e",
+        "Namn": "Tårnby",
+        "NS": "6167884",
+        "Prognostisering": "false",
+        "Signatur": "Dk.tåt"
+      },
+      {
+        "CountyNo": "17",
+        "EPSG": "3006",
+        "EW": "449176",
+        "Id": "b27568f9-90cd-4d71-b630-86030161a9c7",
+        "Namn": "Kristinehamn",
+        "NS": "6575736",
+        "Prognostisering": "true",
+        "Signatur": "Khn"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "381287",
+        "Id": "b46dad95-cc7b-4d3b-9427-205fd7e4d4cf",
+        "Namn": "Järpås",
+        "NS": "6472696",
+        "Prognostisering": "true",
+        "Signatur": "Jps"
+      },
+      {
+        "CountyNo": "4",
+        "EPSG": "3006",
+        "EW": "615260",
+        "Id": "b4e18e2c-0a41-43ba-a76d-1f7ecfd5e3c0",
+        "Namn": "Strängnäs",
+        "NS": "6583042",
+        "Prognostisering": "true",
+        "Signatur": "Sgs"
+      },
+      {
+        "CountyNo": "18",
+        "EPSG": "3006",
+        "EW": "473578",
+        "Id": "b5aceb65-62fe-42ec-9ea9-58d16638af62",
+        "Namn": "Grythyttan",
+        "NS": "6618523",
+        "Prognostisering": "false",
+        "Signatur": "Ghy"
+      },
+      {
+        "CountyNo": "18",
+        "EPSG": "3006",
+        "EW": "499266",
+        "Id": "b5d8262a-f35a-42b3-9339-17a53bb1ee9a",
+        "Namn": "Kopparberg",
+        "NS": "6637227",
+        "Prognostisering": "true",
+        "Signatur": "Kpg"
+      },
+      {
+        "CountyNo": "2",
+        "EPSG": "3006",
+        "EW": "665141",
+        "Id": "b620382d-2f45-4bcc-9343-763090764b34",
+        "Namn": "Rotebro",
+        "NS": "6596623",
+        "Prognostisering": "false",
+        "Signatur": "R"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "319184",
+        "Id": "b64b6622-01cc-4a52-a39f-16d731b71efc",
+        "Namn": "Ljungskile",
+        "NS": "6457866",
+        "Prognostisering": "true",
+        "Signatur": "Lj"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "368547",
+        "Id": "b66104af-279d-4707-a82d-ae8bffdc8978",
+        "Namn": "Båstad",
+        "NS": "6255419",
+        "Prognostisering": "true",
+        "Signatur": "Båsö"
+      },
+      {
+        "CountyNo": "17",
+        "EPSG": "3006",
+        "EW": "395812",
+        "Id": "b6a91ad8-0ec6-42a0-9225-f8247fc190be",
+        "Namn": "Västra Ämtervik",
+        "NS": "6622546",
+        "Prognostisering": "true",
+        "Signatur": "Vät"
+      },
+      {
+        "CountyNo": "2",
+        "EPSG": "3006",
+        "EW": "668181",
+        "Id": "b80c8c8b-58b3-4b9d-99e8-40aa00b1ba55",
+        "Namn": "Helenelund",
+        "NS": "6589289",
+        "Prognostisering": "false",
+        "Signatur": "Hel"
+      },
+      {
+        "CountyNo": "20",
+        "EPSG": "3006",
+        "EW": "505158",
+        "Id": "b82f4a31-edbf-4744-810f-93c0c469debf",
+        "Namn": "Insjön",
+        "NS": "6726649",
+        "Prognostisering": "true",
+        "Signatur": "In"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "494643",
+        "Id": "b839cbbf-ae8f-46b9-be58-48489b487fd6",
+        "Namn": "Björköby",
+        "NS": "6375393",
+        "Prognostisering": "true",
+        "Signatur": "Bjy"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "350250",
+        "Id": "b856e895-1c53-444c-9d56-3aae63403663",
+        "Namn": "Västra Bodarne",
+        "NS": "6418989",
+        "Prognostisering": "true",
+        "Signatur": "Vbd"
+      },
+      {
+        "CountyNo": "25",
+        "EPSG": "3006",
+        "EW": "694806",
+        "Id": "b8837c4b-a4f7-4276-8079-f9dca8ebc440",
+        "Namn": "Torneträsk",
+        "NS": "7574553",
+        "Prognostisering": "true",
+        "Signatur": "Tnk"
+      },
+      {
+        "CountyNo": "25",
+        "EPSG": "3006",
+        "EW": "806029",
+        "Id": "b8d40803-3807-49a1-a001-cd7b9dc88253",
+        "Namn": "Boden C",
+        "NS": "7317197",
+        "Prognostisering": "true",
+        "Signatur": "Bdn"
+      },
+      {
+        "CountyNo": "4",
+        "EPSG": "3006",
+        "EW": "574877",
+        "Id": "b8f05d23-92b7-4589-a7ad-410936ef9cf0",
+        "Namn": "Kvicksund",
+        "NS": "6590991",
+        "Prognostisering": "true",
+        "Signatur": "Ksus"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "401807",
+        "Id": "b936e0d1-1f43-41c5-b7f7-39735bf78f91",
+        "Namn": "Floby",
+        "NS": "6445371",
+        "Prognostisering": "true",
+        "Signatur": "Fby"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "441733",
+        "Id": "b9e927b1-ecfb-41f9-a1c4-b0ec14ae80e0",
+        "Namn": "Värnamo",
+        "NS": "6338545",
+        "Prognostisering": "true",
+        "Signatur": "V"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "380020",
+        "Id": "b9f70b62-a9ac-4b97-821b-8c19f95a0d77",
+        "Namn": "Teckomatorp",
+        "NS": "6193332",
+        "Prognostisering": "true",
+        "Signatur": "Tp"
+      },
+      {
+        "CountyNo": "2",
+        "EPSG": "3006",
+        "EW": "669935",
+        "Id": "ba03f5bb-0d50-43ba-955a-f56bc85f5b5b",
+        "Namn": "Nynäshamn",
+        "NS": "6532699",
+        "Prognostisering": "false",
+        "Signatur": "Nyh"
+      },
+      {
+        "CountyNo": "19",
+        "EPSG": "3006",
+        "EW": "556979",
+        "Id": "baa33e34-139b-47c2-9cf6-89d8d55b78b6",
+        "Namn": "Köping",
+        "NS": "6596853",
+        "Prognostisering": "true",
+        "Signatur": "Kp"
+      },
+      {
+        "CountyNo": "23",
+        "EPSG": "3006",
+        "EW": "423524",
+        "Id": "baa76667-6884-450a-9bb3-16c3172b3f8d",
+        "Namn": "Järpen",
+        "NS": "7024651",
+        "Prognostisering": "true",
+        "Signatur": "Jpn"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "427437",
+        "Id": "bb0372e8-642d-4511-9ea7-bc20d9648243",
+        "Namn": "Sandhem",
+        "NS": "6428069",
+        "Prognostisering": "true",
+        "Signatur": "Sm"
+      },
+      {
+        "CountyNo": "25",
+        "EPSG": "3006",
+        "EW": "636389",
+        "Id": "bd5b9bcb-d9f7-4d2c-bcd8-24c806033782",
+        "Namn": "Låktatjåkka",
+        "NS": "7593784",
+        "Prognostisering": "true",
+        "Signatur": "Låk"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "481711",
+        "Id": "bded200e-dbc4-4f3e-a341-d9282113f99f",
+        "Namn": "Bodafors",
+        "NS": "6373766",
+        "Prognostisering": "true",
+        "Signatur": "Bdf"
+      },
+      {
+        "CountyNo": "8",
+        "EPSG": "3006",
+        "EW": "535828",
+        "Id": "be8910df-222b-4fbb-aca0-7be725dabea9",
+        "Namn": "Vissefjärda",
+        "NS": "6266114",
+        "Prognostisering": "false",
+        "Signatur": "Vfa"
+      },
+      {
+        "CountyNo": "22",
+        "EPSG": "3006",
+        "EW": "686618",
+        "Id": "bf145c09-5d03-4ed1-8bb7-732c4b59a3ba",
+        "Namn": "Örnsköldsvik norra",
+        "NS": "7025116",
+        "Prognostisering": "true",
+        "Signatur": "Ökn"
+      },
+      {
+        "CountyNo": "3",
+        "EPSG": "3006",
+        "EW": "645729",
+        "Id": "bf9ed873-11a6-4a3d-985b-c65b9dd3e346",
+        "Namn": "Tobo",
+        "NS": "6683169",
+        "Prognostisering": "true",
+        "Signatur": "Tbo"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "382826",
+        "Id": "bfa590cc-60e8-447c-9545-a214c22df49c",
+        "Namn": "Mollaryd",
+        "NS": "6419982",
+        "Prognostisering": "true",
+        "Signatur": "Moy"
+      },
+      {
+        "CountyNo": "7",
+        "EPSG": "3006",
+        "EW": "478436",
+        "Id": "c09054c9-7595-480b-8317-81490bef8198",
+        "Namn": "Gemla",
+        "NS": "6303056",
+        "Prognostisering": "true",
+        "Signatur": "Gm"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "313104",
+        "Id": "c190d152-6954-4917-b5d2-5f29225296d7",
+        "Namn": "Stora Höga",
+        "NS": "6435169",
+        "Prognostisering": "true",
+        "Signatur": "Sth"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "424657",
+        "Id": "c21108a4-d6c3-4b31-8e28-739e156281c4",
+        "Namn": "Lugnås",
+        "NS": "6501175",
+        "Prognostisering": "true",
+        "Signatur": "Lnå"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "405688",
+        "Id": "c2877d0a-221f-41a9-a200-f1ae8bdc0131",
+        "Namn": "Råbäck",
+        "NS": "6497835",
+        "Prognostisering": "true",
+        "Signatur": "Rbk"
+      },
+      {
+        "EPSG": "3006",
+        "EW": "608955",
+        "Id": "c31ee276-d0be-45a1-a5f5-d678a3254a14",
+        "Namn": "Straumsnes",
+        "NS": "7593550",
+        "Prognostisering": "false",
+        "Signatur": "No.sms"
+      },
+      {
+        "CountyNo": "23",
+        "EPSG": "3006",
+        "EW": "395938",
+        "Id": "c386dbc0-d52d-4c64-83d3-369ef45f11f6",
+        "Namn": "Duved",
+        "NS": "7030708",
+        "Prognostisering": "true",
+        "Signatur": "Du"
+      },
+      {
+        "CountyNo": "4",
+        "EPSG": "3006",
+        "EW": "550295",
+        "Id": "c38dcd1d-526c-424c-ad27-9acd51b0356a",
+        "Namn": "Vingåker",
+        "NS": "6545070",
+        "Prognostisering": "true",
+        "Signatur": "Vr"
+      },
+      {
+        "CountyNo": "13",
+        "EPSG": "3006",
+        "EW": "369157",
+        "Id": "c3f9a774-d008-4ae8-b312-92c46aa3fe6b",
+        "Namn": "Halmstad C",
+        "NS": "6282646",
+        "Prognostisering": "true",
+        "Signatur": "Hd"
+      },
+      {
+        "CountyNo": "23",
+        "EPSG": "3006",
+        "EW": "511660",
+        "Id": "c443ebf3-1378-487b-b990-70e8c62285d2",
+        "Namn": "Gällö",
+        "NS": "6975720",
+        "Prognostisering": "true",
+        "Signatur": "Gö"
+      },
+      {
+        "CountyNo": "25",
+        "EPSG": "3006",
+        "EW": "629691",
+        "Id": "c513b53d-6cd1-45cb-8c35-0d3439ae33a0",
+        "Namn": "Katterjåkk",
+        "NS": "7593037",
+        "Prognostisering": "true",
+        "Signatur": "Kjå"
+      },
+      {
+        "CountyNo": "13",
+        "EPSG": "3006",
+        "EW": "325363",
+        "Id": "c5b97b7e-ed06-4831-8aac-8fe6ff931d78",
+        "Namn": "Kungsbacka Hede",
+        "NS": "6378367",
+        "Prognostisering": "true",
+        "Signatur": "Khe"
+      },
+      {
+        "CountyNo": "2",
+        "EPSG": "3006",
+        "EW": "668892",
+        "Id": "c6531003-ce56-461a-9cb0-b3d53d9a2421",
+        "Namn": "Gröndalsviken",
+        "NS": "6532535",
+        "Prognostisering": "false",
+        "Signatur": "Gdv"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "295006",
+        "Id": "c770d79c-1091-410e-bf0f-277eef2088ff",
+        "Namn": "Rabbalshede",
+        "NS": "6502030",
+        "Prognostisering": "true",
+        "Signatur": "Rbh"
+      },
+      {
+        "CountyNo": "18",
+        "EPSG": "3006",
+        "EW": "506379",
+        "Id": "c838aba3-6a99-4573-b904-78dec5489601",
+        "Namn": "Hallsberg",
+        "NS": "6547530",
+        "Prognostisering": "true",
+        "Signatur": "Hpbg"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "467726",
+        "Id": "c8c6f6a7-50ba-4002-bcc9-0ee2b7cdc3a6",
+        "Namn": "Bromölla",
+        "NS": "6213676",
+        "Prognostisering": "true",
+        "Signatur": "Bml"
+      },
+      {
+        "CountyNo": "2",
+        "EPSG": "3006",
+        "EW": "677073",
+        "Id": "c8f3a695-ee22-487c-ac44-a25361b81b67",
+        "Namn": "Farsta strand",
+        "NS": "6570533",
+        "Prognostisering": "false",
+        "Signatur": "Fas"
+      },
+      {
+        "CountyNo": "2",
+        "EPSG": "3006",
+        "EW": "673924",
+        "Id": "c94b0f8b-a5d5-494a-b7f6-d93a49f9208c",
+        "Namn": "Stockholm C",
+        "NS": "6580788",
+        "Prognostisering": "true",
+        "Signatur": "Cst"
+      },
+      {
+        "CountyNo": "17",
+        "EPSG": "3006",
+        "EW": "397857",
+        "Id": "ca7b9493-e8a7-4a5b-aa4e-7bdda5322603",
+        "Namn": "Ingmår",
+        "NS": "6639284",
+        "Prognostisering": "false",
+        "Signatur": "Imr"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "361972",
+        "Id": "cab5f68b-9685-4883-8573-c1533767de27",
+        "Namn": "Kattarp",
+        "NS": "6224432",
+        "Prognostisering": "true",
+        "Signatur": "Ka"
+      },
+      {
+        "CountyNo": "5",
+        "EPSG": "3006",
+        "EW": "540141",
+        "Id": "cbdbe8e7-3166-4d61-94b6-8810d329393b",
+        "Namn": "Rimforsa",
+        "NS": "6443977",
+        "Prognostisering": "true",
+        "Signatur": "Rf"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "321670",
+        "Id": "cc680768-f491-4f13-afa9-b122feb688bb",
+        "Namn": "Gamlestaden",
+        "NS": "6403270",
+        "Prognostisering": "true",
+        "Signatur": "Gas"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "300842",
+        "Id": "ccef2254-7826-4b98-b128-9218306b9766",
+        "Namn": "Dingle",
+        "NS": "6492745",
+        "Prognostisering": "true",
+        "Signatur": "Dl"
+      },
+      {
+        "CountyNo": "21",
+        "EPSG": "3006",
+        "EW": "592621",
+        "Id": "cd523543-2b19-43e1-8473-3b23268e45ea",
+        "Namn": "Holmsveden",
+        "NS": "6777338",
+        "Prognostisering": "true",
+        "Signatur": "Hdn"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "319716",
+        "Id": "cd7ef602-e523-43f6-8105-359d736408f2",
+        "Namn": "Göteborg C",
+        "NS": "6400328",
+        "Prognostisering": "true",
+        "Signatur": "G"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "322848",
+        "Id": "cdbe1bc5-61a1-4526-8a13-683a554d2cef",
+        "Namn": "Sävenäs",
+        "NS": "6401955",
+        "Prognostisering": "true",
+        "Signatur": "Säv"
+      },
+      {
+        "CountyNo": "5",
+        "EPSG": "3006",
+        "EW": "536474",
+        "Id": "cdce0c53-ac6d-4d4f-bda4-1971936780a9",
+        "Namn": "Linköping C",
+        "NS": "6475311",
+        "Prognostisering": "true",
+        "Signatur": "Lp"
+      },
+      {
+        "CountyNo": "7",
+        "EPSG": "3006",
+        "EW": "446929",
+        "Id": "ce042f26-eebe-4bff-9391-98b6ae38f69f",
+        "Namn": "Älmhult",
+        "NS": "6267626",
+        "Prognostisering": "true",
+        "Signatur": "Äh"
+      },
+      {
+        "CountyNo": "21",
+        "EPSG": "3006",
+        "EW": "593387",
+        "Id": "ce4110ea-06cd-44f5-86ac-9439bb698a05",
+        "Namn": "Ockelbo",
+        "NS": "6751890",
+        "Prognostisering": "true",
+        "Signatur": "Ob"
+      },
+      {
+        "CountyNo": "13",
+        "EPSG": "3006",
+        "EW": "338237",
+        "Id": "ce638170-45a8-466a-b3ab-586c587e5609",
+        "Namn": "Derome",
+        "NS": "6346233",
+        "Prognostisering": "true",
+        "Signatur": "Dre"
+      },
+      {
+        "CountyNo": "17",
+        "EPSG": "3006",
+        "EW": "351155",
+        "Id": "ceba114c-eb21-4af4-8837-94ca741cbec5",
+        "Namn": "Ås",
+        "NS": "6638508",
+        "Prognostisering": "true",
+        "Signatur": "Ås"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "376765",
+        "Id": "cec4aafa-a14a-4a4d-b6d6-e2e508186629",
+        "Namn": "Dösjebro",
+        "NS": "6188129",
+        "Prognostisering": "true",
+        "Signatur": "Dös"
+      },
+      {
+        "CountyNo": "20",
+        "EPSG": "3006",
+        "EW": "578130",
+        "Id": "cfb5b120-9a00-488f-a086-0d3f29cc7fd6",
+        "Namn": "Horndals Bruk",
+        "NS": "6685227",
+        "Prognostisering": "true",
+        "Signatur": "Hlr"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "419790",
+        "Id": "cfbcd209-6fbb-43dd-9f2f-ec180e72d9b8",
+        "Namn": "Bjärnum",
+        "NS": "6239437",
+        "Prognostisering": "false",
+        "Signatur": "Bjm"
+      },
+      {
+        "CountyNo": "8",
+        "EPSG": "3006",
+        "EW": "583383",
+        "Id": "d00ebbee-7ac1-47da-bf91-82905e17f328",
+        "Namn": "Kalmar C",
+        "NS": "6280513",
+        "Prognostisering": "true",
+        "Signatur": "Kac"
+      },
+      {
+        "EPSG": "3006",
+        "EW": "391983",
+        "Id": "d07a7b11-d74e-4d0e-adc0-4fb7e3310812",
+        "Namn": "Berlin",
+        "NS": "5819913",
+        "Prognostisering": "false",
+        "Signatur": "De.ber"
+      },
+      {
+        "CountyNo": "7",
+        "EPSG": "3006",
+        "EW": "488135",
+        "Id": "d15e23b7-c6f3-493a-8b01-47d79f01be89",
+        "Namn": "Växjö",
+        "NS": "6303674",
+        "Prognostisering": "true",
+        "Signatur": "Vö"
+      },
+      {
+        "CountyNo": "24",
+        "EPSG": "3006",
+        "EW": "736173",
+        "Id": "d17612e4-88eb-4f9d-bdb5-6f3edb0b297c",
+        "Namn": "Vännäsby",
+        "NS": "7096492",
+        "Prognostisering": "true",
+        "Signatur": "Vby"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "360272",
+        "Id": "d1c835d7-a62c-4f22-989e-40344e71036b",
+        "Namn": "Assberg",
+        "NS": "6374815",
+        "Prognostisering": "true",
+        "Signatur": "Asb"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "432756",
+        "Id": "d1d675aa-81a0-4935-8bae-800ecde1d662",
+        "Namn": "Hillerstorp",
+        "NS": "6352846",
+        "Prognostisering": "true",
+        "Signatur": "Hto"
+      },
+      {
+        "CountyNo": "25",
+        "EPSG": "3006",
+        "EW": "657629",
+        "Id": "d27c9210-b0ea-4073-bdf6-b4e65c79bac3",
+        "Namn": "Abisko Östra",
+        "NS": "7586635",
+        "Prognostisering": "true",
+        "Signatur": "Ak"
+      },
+      {
+        "EPSG": "3006",
+        "EW": "623110",
+        "Id": "d2fa6d25-1d50-40a5-995e-813039f0163e",
+        "Namn": "Sösterbekk",
+        "NS": "7592488",
+        "Prognostisering": "false",
+        "Signatur": "No.sös"
+      },
+      {
+        "CountyNo": "5",
+        "EPSG": "3006",
+        "EW": "537497",
+        "Id": "d37efb5b-ac6f-44e7-8a49-a5edf335a668",
+        "Namn": "Kisa",
+        "NS": "6427175",
+        "Prognostisering": "true",
+        "Signatur": "Kisa"
+      },
+      {
+        "CountyNo": "5",
+        "EPSG": "3006",
+        "EW": "505409",
+        "Id": "d45c7cf8-b480-4b91-abc5-e399909d12d0",
+        "Namn": "Skänninge",
+        "NS": "6472429",
+        "Prognostisering": "true",
+        "Signatur": "Skn"
+      },
+      {
+        "CountyNo": "5",
+        "EPSG": "3006",
+        "EW": "558893",
+        "Id": "d497c3a2-1f87-40ed-b1ae-bbc5204088a7",
+        "Namn": "Åtvidaberg",
+        "NS": "6451821",
+        "Prognostisering": "true",
+        "Signatur": "Åvg"
+      },
+      {
+        "CountyNo": "18",
+        "EPSG": "3006",
+        "EW": "484691",
+        "Id": "d4e5db68-b42a-4488-95a8-0f527d4e8878",
+        "Namn": "Bredsjö",
+        "NS": "6632737",
+        "Prognostisering": "false",
+        "Signatur": "Brö"
+      },
+      {
+        "CountyNo": "22",
+        "EPSG": "3006",
+        "EW": "533811",
+        "Id": "d54711ed-f6e2-4920-adfd-c29079412e2b",
+        "Namn": "Ånge",
+        "NS": "6932697",
+        "Prognostisering": "true",
+        "Signatur": "Åg"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "520542",
+        "Id": "d59f10ec-e100-43a8-8625-3c8f7923a168",
+        "Namn": "Hjältevad",
+        "NS": "6387450",
+        "Prognostisering": "true",
+        "Signatur": "Hvd"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "417804",
+        "Id": "d5aa79df-4047-4a18-843e-34b0e8190d0d",
+        "Namn": "Sösdala",
+        "NS": "6210920",
+        "Prognostisering": "true",
+        "Signatur": "Söla"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "400480",
+        "Id": "d5ea6f9c-cb55-46d8-89bc-f671e309e798",
+        "Namn": "Perstorp",
+        "NS": "6222416",
+        "Prognostisering": "true",
+        "Signatur": "Pt"
+      },
+      {
+        "CountyNo": "19",
+        "EPSG": "3006",
+        "EW": "547732",
+        "Id": "d66fd4a7-fdee-4e2b-af48-0f805bb94daa",
+        "Namn": "Arboga",
+        "NS": "6584582",
+        "Prognostisering": "true",
+        "Signatur": "Arb"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "365963",
+        "Id": "d6b30442-2f05-474e-a558-ca9cbf9bdf78",
+        "Namn": "Landskrona",
+        "NS": "6194698",
+        "Prognostisering": "true",
+        "Signatur": "Lkö"
+      },
+      {
+        "CountyNo": "3",
+        "EPSG": "3006",
+        "EW": "614515",
+        "Id": "d6c5f520-66e9-40ac-a8dc-c31a8e8014cb",
+        "Namn": "Lilleström",
+        "NS": "6648298",
+        "Prognostisering": "false",
+        "Signatur": "No.lls"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "384974",
+        "Id": "d6cbd903-5abf-4cb2-bec7-287348d2bd60",
+        "Namn": "Gunnesbo",
+        "NS": "6177077",
+        "Prognostisering": "true",
+        "Signatur": "Gnb"
+      },
+      {
+        "CountyNo": "25",
+        "EPSG": "3006",
+        "EW": "827456",
+        "Id": "d75ac6da-ae8f-4675-9605-cdd779e46b10",
+        "Namn": "Notviken",
+        "NS": "7295073",
+        "Prognostisering": "true",
+        "Signatur": "Nvn"
+      },
+      {
+        "CountyNo": "2",
+        "EPSG": "3006",
+        "EW": "678632",
+        "Id": "d88ae3c1-4bfa-4fe3-97bc-4867dd1965f6",
+        "Namn": "Trångsund",
+        "NS": "6569613",
+        "Prognostisering": "false",
+        "Signatur": "Tåd"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "449426",
+        "Id": "d8fc99d3-414c-4ebf-8dd9-63d94b460618",
+        "Namn": "Töreboda",
+        "NS": "6507486",
+        "Prognostisering": "true",
+        "Signatur": "T"
+      },
+      {
+        "CountyNo": "23",
+        "EPSG": "3006",
+        "EW": "376740",
+        "Id": "d999779f-6030-4ddd-8dcc-3bce0b6240e4",
+        "Namn": "Ånn",
+        "NS": "7023760",
+        "Prognostisering": "true",
+        "Signatur": "Ånn"
+      },
+      {
+        "CountyNo": "5",
+        "EPSG": "3006",
+        "EW": "503153",
+        "Id": "d9b24799-89c0-4dd7-8203-9690c3ce04ea",
+        "Namn": "Boxholm",
+        "NS": "6450190",
+        "Prognostisering": "true",
+        "Signatur": "Bx"
+      },
+      {
+        "CountyNo": "13",
+        "EPSG": "3006",
+        "EW": "376859",
+        "Id": "da51b4af-1af0-4858-a0e6-888ea02d4aa7",
+        "Namn": "Laholm",
+        "NS": "6263823",
+        "Prognostisering": "true",
+        "Signatur": "Laov"
+      },
+      {
+        "CountyNo": "25",
+        "EPSG": "3006",
+        "EW": "722137",
+        "Id": "dad10243-852e-4bae-851c-c7d51fd3c136",
+        "Namn": "Sjisjka",
+        "NS": "7510547",
+        "Prognostisering": "false",
+        "Signatur": "Sjka"
+      },
+      {
+        "CountyNo": "13",
+        "EPSG": "3006",
+        "EW": "383213",
+        "Id": "dcd3b1d9-46f9-4d79-a08d-78bd9fea0a36",
+        "Namn": "Torup",
+        "NS": "6314309",
+        "Prognostisering": "true",
+        "Signatur": "Tou"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "321028",
+        "Id": "dde4bc51-93bc-4601-a1a7-643fa3442e8b",
+        "Namn": "Liseberg",
+        "NS": "6399222",
+        "Prognostisering": "true",
+        "Signatur": "Lis"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "379809",
+        "Id": "ddf4e0df-c525-4eb1-9e1f-ed72a451b87d",
+        "Namn": "Vara",
+        "NS": "6459592",
+        "Prognostisering": "true",
+        "Signatur": "Vaa"
+      },
+      {
+        "CountyNo": "20",
+        "EPSG": "3006",
+        "EW": "565001",
+        "Id": "de1c2d71-17f3-4417-a830-fc9cbf6c9d79",
+        "Namn": "Avesta centrum",
+        "NS": "6668391",
+        "Prognostisering": "true",
+        "Signatur": "Acm"
+      },
+      {
+        "CountyNo": "17",
+        "EPSG": "3006",
+        "EW": "352165",
+        "Id": "de435d3f-28cd-41fb-907c-08b545b6e9e2",
+        "Namn": "Lerot",
+        "NS": "6635038",
+        "Prognostisering": "true",
+        "Signatur": "Lrt"
+      },
+      {
+        "CountyNo": "3",
+        "EPSG": "3006",
+        "EW": "609611",
+        "Id": "de810db6-9df2-47cf-9b53-884bce3d71f7",
+        "Namn": "Morgongåva",
+        "NS": "6645563",
+        "Prognostisering": "true",
+        "Signatur": "Må"
+      },
+      {
+        "CountyNo": "21",
+        "EPSG": "3006",
+        "EW": "573518",
+        "Id": "deef1412-5f95-425f-b292-2af8491e453d",
+        "Namn": "Arbrå",
+        "NS": "6816033",
+        "Prognostisering": "true",
+        "Signatur": "Ab"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "524904",
+        "Id": "df949bfe-89c2-4baa-854c-d6b4dcbfdb8a",
+        "Namn": "Ingatorp",
+        "NS": "6388094",
+        "Prognostisering": "true",
+        "Signatur": "Igt"
+      },
+      {
+        "CountyNo": "19",
+        "EPSG": "3006",
+        "EW": "559793",
+        "Id": "dfab893a-503b-4829-ba1c-aac41a0bf2e0",
+        "Namn": "Karbenning",
+        "NS": "6655999",
+        "Prognostisering": "true",
+        "Signatur": "Kbn"
+      },
+      {
+        "CountyNo": "10",
+        "EPSG": "3006",
+        "EW": "474033",
+        "Id": "dfed09ff-b2a5-4c78-921e-36882f30c6bc",
+        "Namn": "Sölvesborg",
+        "NS": "6211661",
+        "Prognostisering": "true",
+        "Signatur": "Sög"
+      },
+      {
+        "CountyNo": "17",
+        "EPSG": "3006",
+        "EW": "397621",
+        "Id": "e085b9ce-3013-4050-bd58-270998a477bd",
+        "Namn": "Frykåsen",
+        "NS": "6611211",
+        "Prognostisering": "false",
+        "Signatur": "Frå"
+      },
+      {
+        "CountyNo": "2",
+        "EPSG": "3006",
+        "EW": "662096",
+        "Id": "e16f1d5c-9817-4afc-9592-d89e71418acf",
+        "Namn": "Tumba",
+        "NS": "6565716",
+        "Prognostisering": "false",
+        "Signatur": "Tu"
+      },
+      {
+        "CountyNo": "8",
+        "EPSG": "3006",
+        "EW": "583558",
+        "Id": "e1b4c768-0ad2-42fd-a0bb-767e0f5284ea",
+        "Namn": "Gamleby",
+        "NS": "6418113",
+        "Prognostisering": "false",
+        "Signatur": "Gal"
+      },
+      {
+        "CountyNo": "2",
+        "EPSG": "3006",
+        "EW": "674193",
+        "Id": "e1d45030-2d36-40d9-a207-c604ac5a6cfc",
+        "Namn": "Stockholm Södra",
+        "NS": "6578955",
+        "Prognostisering": "false",
+        "Signatur": "Sst"
+      },
+      {
+        "CountyNo": "2",
+        "EPSG": "3006",
+        "EW": "672231",
+        "Id": "e246b9f0-a188-4f61-9f05-3829e6496fdf",
+        "Namn": "Karlberg",
+        "NS": "6581859",
+        "Prognostisering": "false",
+        "Signatur": "Ke"
+      },
+      {
+        "CountyNo": "2",
+        "EPSG": "3006",
+        "EW": "664791",
+        "Id": "e2884752-7edc-4328-a905-b33eaf1164c7",
+        "Namn": "Arlanda N",
+        "NS": "6616078",
+        "Prognostisering": "false",
+        "Signatur": "Arnn"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "433724",
+        "Id": "e2e71394-5ccc-42fe-ba9a-4e5353843122",
+        "Namn": "Mullsjö",
+        "NS": "6419799",
+        "Prognostisering": "true",
+        "Signatur": "Mu"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "511147",
+        "Id": "e30a0c3f-b3ac-4d40-aa85-28fc9105eff0",
+        "Namn": "Milletorp",
+        "NS": "6343967",
+        "Prognostisering": "false",
+        "Signatur": "Mip"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "468654",
+        "Id": "e3f5c035-11fc-4216-9ac8-753a720e8835",
+        "Namn": "Forserum",
+        "NS": "6395194",
+        "Prognostisering": "true",
+        "Signatur": "Fm"
+      },
+      {
+        "CountyNo": "17",
+        "EPSG": "3006",
+        "EW": "394989",
+        "Id": "e41b91d0-b724-48ca-8027-238fca8faf24",
+        "Namn": "Rottneros",
+        "NS": "6630060",
+        "Prognostisering": "false",
+        "Signatur": "Rts"
+      },
+      {
+        "CountyNo": "20",
+        "EPSG": "3006",
+        "EW": "541785",
+        "Id": "e42d6002-7e84-46a2-abe0-531410659970",
+        "Namn": "Säter",
+        "NS": "6690251",
+        "Prognostisering": "true",
+        "Signatur": "St"
+      },
+      {
+        "CountyNo": "25",
+        "EPSG": "3006",
+        "EW": "717342",
+        "Id": "e50e3cbf-7bec-48df-8226-7f3697f28427",
+        "Namn": "Kaitum",
+        "NS": "7500820",
+        "Prognostisering": "false",
+        "Signatur": "Ktm"
+      },
+      {
+        "CountyNo": "2",
+        "EPSG": "3006",
+        "EW": "679983",
+        "Id": "e53b05ed-c161-4c9e-a49f-2e52caa67937",
+        "Namn": "Skogås",
+        "NS": "6568735",
+        "Prognostisering": "false",
+        "Signatur": "Skg"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "392052",
+        "Id": "e54d84f8-c03a-4eb0-a1c4-ce1b919c1d80",
+        "Namn": "Framnäs city",
+        "NS": "6486726",
+        "Prognostisering": "true",
+        "Signatur": "Fc"
+      },
+      {
+        "CountyNo": "19",
+        "EPSG": "3006",
+        "EW": "568627",
+        "Id": "e751cabf-683c-4e31-8998-5c61ebf5606d",
+        "Namn": "Surahammar",
+        "NS": "6619365",
+        "Prognostisering": "true",
+        "Signatur": "Shr"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "322040",
+        "Id": "e860ddf5-7fa3-4e37-a30b-4ec46de2c810",
+        "Namn": "Mölndal",
+        "NS": "6395151",
+        "Prognostisering": "true",
+        "Signatur": "Mdn"
+      },
+      {
+        "CountyNo": "3",
+        "EPSG": "3006",
+        "EW": "633134",
+        "Id": "e86575e5-0f02-49ca-b8b1-4dd314419789",
+        "Namn": "Älvkarleby",
+        "NS": "6715739",
+        "Prognostisering": "true",
+        "Signatur": "Äkb"
+      },
+      {
+        "CountyNo": "18",
+        "EPSG": "3006",
+        "EW": "520611",
+        "Id": "e94bd90e-e1c7-4835-9843-6429348e5991",
+        "Namn": "Frövi",
+        "NS": "6592180",
+        "Prognostisering": "true",
+        "Signatur": "Fv"
+      },
+      {
+        "CountyNo": "7",
+        "EPSG": "3006",
+        "EW": "413353",
+        "Id": "e9d71a96-bc75-4481-a2f5-c2861b0fa7f9",
+        "Namn": "Markaryd",
+        "NS": "6258122",
+        "Prognostisering": "true",
+        "Signatur": "Mrd"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "350775",
+        "Id": "ea559999-7eb9-4ee0-b9b9-210f21311563",
+        "Namn": "Skållerud",
+        "NS": "6518520",
+        "Prognostisering": "true",
+        "Signatur": "Skru"
+      },
+      {
+        "CountyNo": "5",
+        "EPSG": "3006",
+        "EW": "557251",
+        "Id": "eac2065a-2b6a-455c-ad15-2cb94f83ed36",
+        "Namn": "Basthagen",
+        "NS": "6452003",
+        "Prognostisering": "false",
+        "Signatur": "Bth"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "403978",
+        "Id": "eaceb423-211f-43ec-b28b-fcf56f721da7",
+        "Namn": "Trolmen",
+        "NS": "6496119",
+        "Prognostisering": "true",
+        "Signatur": "Trm"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "445550",
+        "Id": "eaf95a06-efa4-4f7b-af58-37bd42c7b9c4",
+        "Namn": "Taberg",
+        "NS": "6393304",
+        "Prognostisering": "true",
+        "Signatur": "Tag"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "385964",
+        "Id": "eb77f1e7-5e60-41fc-8d26-a25742c42ee9",
+        "Namn": "Lovene",
+        "NS": "6479380",
+        "Prognostisering": "true",
+        "Signatur": "Lve"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "448271",
+        "Id": "ec5007ac-ed73-4643-b688-c53785666c23",
+        "Namn": "Bankeryd",
+        "NS": "6413497",
+        "Prognostisering": "true",
+        "Signatur": "Bry"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "356429",
+        "Id": "ecbd5c13-69b7-4843-b5df-4adaf340422b",
+        "Namn": "Helsingborg C",
+        "NS": "6213321",
+        "Prognostisering": "true",
+        "Signatur": "Hb"
+      },
+      {
+        "CountyNo": "3",
+        "EPSG": "3006",
+        "EW": "614515",
+        "Id": "ecfb3e53-3434-4b07-b231-c9a2c4b4bd5b",
+        "Namn": "Lilleström",
+        "NS": "6648298",
+        "Prognostisering": "false",
+        "Signatur": "No.lil"
+      },
+      {
+        "CountyNo": "3",
+        "EPSG": "3006",
+        "EW": "651119",
+        "Id": "edad5110-aded-4898-b066-3d0620bccf26",
+        "Namn": "Storvreta",
+        "NS": "6649635",
+        "Prognostisering": "true",
+        "Signatur": "Srv"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "445298",
+        "Id": "edc1391c-27c0-4ae3-8127-475894089be9",
+        "Namn": "Habo",
+        "NS": "6418662",
+        "Prognostisering": "true",
+        "Signatur": "Ho"
+      },
+      {
+        "CountyNo": "2",
+        "EPSG": "3006",
+        "EW": "638726",
+        "Id": "edcd8f7d-bc8d-48c6-ba89-93766cffd7ff",
+        "Namn": "Mölnbo",
+        "NS": "6547837",
+        "Prognostisering": "false",
+        "Signatur": "Mö"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "414965",
+        "Id": "ee0a0eab-38aa-4d4f-ae5b-863d6a207d32",
+        "Namn": "Reftele",
+        "NS": "6337846",
+        "Prognostisering": "true",
+        "Signatur": "Rft"
+      },
+      {
+        "CountyNo": "17",
+        "EPSG": "3006",
+        "EW": "389068",
+        "Id": "ee43e652-8a2c-4296-a2d5-0f98fec85cec",
+        "Namn": "Torsby",
+        "NS": "6668289",
+        "Prognostisering": "true",
+        "Signatur": "Toy"
+      },
+      {
+        "CountyNo": "21",
+        "EPSG": "3006",
+        "EW": "617548",
+        "Id": "ee514387-c4d2-4b08-b2fb-b264d1eaf0e6",
+        "Namn": "Gävle C",
+        "NS": "6728634",
+        "Prognostisering": "true",
+        "Signatur": "Gä"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "445493",
+        "Id": "eef37561-9dbd-4265-8e86-9e81f6df51b3",
+        "Namn": "Lyrestad",
+        "NS": "6518716",
+        "Prognostisering": "true",
+        "Signatur": "Lyd"
+      },
+      {
+        "CountyNo": "4",
+        "EPSG": "3006",
+        "EW": "585915",
+        "Id": "ef454ea3-9fcd-489a-8300-bafe0a03b09f",
+        "Namn": "Hälleforsnäs",
+        "NS": "6559058",
+        "Prognostisering": "true",
+        "Signatur": "Hnä"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "298578",
+        "Id": "ef8a7395-fdc9-4e72-8ac1-27f551c9b272",
+        "Namn": "Hällevadsholm",
+        "NS": "6498487",
+        "Prognostisering": "true",
+        "Signatur": "Hlv"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "306246",
+        "Id": "effb2d29-29b7-4d9a-88b5-68799534780a",
+        "Namn": "Munkedal",
+        "NS": "6485246",
+        "Prognostisering": "true",
+        "Signatur": "Mkl"
+      },
+      {
+        "CountyNo": "13",
+        "EPSG": "3006",
+        "EW": "336796",
+        "Id": "f0408875-906b-43b6-a388-e6cd7cfa2320",
+        "Namn": "Tofta",
+        "NS": "6339912",
+        "Prognostisering": "true",
+        "Signatur": "Tof"
+      },
+      {
+        "CountyNo": "21",
+        "EPSG": "3006",
+        "EW": "617248",
+        "Id": "f0b440ac-9be9-4ffd-88cb-360970518094",
+        "Namn": "Gnarp",
+        "NS": "6882374",
+        "Prognostisering": "true",
+        "Signatur": "Gnp"
+      },
+      {
+        "CountyNo": "25",
+        "EPSG": "3006",
+        "EW": "761730",
+        "Id": "f192bcbf-7583-4e47-8c3b-6ca8dd818087",
+        "Namn": "Nattavaara",
+        "NS": "7416490",
+        "Prognostisering": "true",
+        "Signatur": "Ntv"
+      },
+      {
+        "CountyNo": "2",
+        "EPSG": "3006",
+        "EW": "660733",
+        "Id": "f1a97e16-7ea8-4b03-a302-552a324f2657",
+        "Namn": "Jakobsberg",
+        "NS": "6590667",
+        "Prognostisering": "false",
+        "Signatur": "Jkb"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "328790",
+        "Id": "f23204ec-6604-462f-abdc-5eaa5b51b680",
+        "Namn": "Älvängen",
+        "NS": "6427299",
+        "Prognostisering": "true",
+        "Signatur": "Än"
+      },
+      {
+        "CountyNo": "13",
+        "EPSG": "3006",
+        "EW": "348353",
+        "Id": "f2f9a7d2-732f-44a9-9e44-5841f6fd1c97",
+        "Namn": "Falkenberg",
+        "NS": "6311189",
+        "Prognostisering": "true",
+        "Signatur": "Fabp"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "447084",
+        "Id": "f322f8b1-387e-4eca-af2c-71e20f3da219",
+        "Namn": "Kristianstad C",
+        "NS": "6209991",
+        "Prognostisering": "true",
+        "Signatur": "Cr"
+      },
+      {
+        "CountyNo": "17",
+        "EPSG": "3006",
+        "EW": "389543",
+        "Id": "f40fe41a-6d3d-47a6-854c-66874c75f251",
+        "Namn": "Stjerneskolan",
+        "NS": "6668562",
+        "Prognostisering": "false",
+        "Signatur": "Stje"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "336906",
+        "Id": "f42dd7af-472b-4818-99de-2e4b6a1984cd",
+        "Namn": "Aspedalen",
+        "NS": "6405568",
+        "Prognostisering": "true",
+        "Signatur": "Asd"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "323570",
+        "Id": "f4c3aaba-391d-4f8a-a227-10de3bb90ce9",
+        "Namn": "Kållered",
+        "NS": "6389743",
+        "Prognostisering": "true",
+        "Signatur": "Krd"
+      },
+      {
+        "CountyNo": "24",
+        "EPSG": "3006",
+        "EW": "739417",
+        "Id": "f575277f-a5fd-459b-ae70-d49bbae3e49d",
+        "Namn": "Bastuträsk",
+        "NS": "7194482",
+        "Prognostisering": "true",
+        "Signatur": "Bst"
+      },
+      {
+        "CountyNo": "17",
+        "EPSG": "3006",
+        "EW": "393749",
+        "Id": "f6f1d3a0-6f03-4249-9dee-191ac70435f3",
+        "Namn": "Lene",
+        "NS": "6602142",
+        "Prognostisering": "true",
+        "Signatur": "Len"
+      },
+      {
+        "CountyNo": "23",
+        "EPSG": "3006",
+        "EW": "366496",
+        "Id": "f7ce2b4b-1da7-45f8-975e-03a0abeedc54",
+        "Namn": "Enafors",
+        "NS": "7020648",
+        "Prognostisering": "true",
+        "Signatur": "Ens"
+      },
+      {
+        "CountyNo": "5",
+        "EPSG": "3006",
+        "EW": "571068",
+        "Id": "f7f1d313-90d5-4bb1-9fa7-3f5c55e7ab4f",
+        "Namn": "Falerum",
+        "NS": "6445338",
+        "Prognostisering": "false",
+        "Signatur": "Fal"
+      },
+      {
+        "CountyNo": "4",
+        "EPSG": "3006",
+        "EW": "590922",
+        "Id": "f80bd420-9282-4903-b5a1-09be5a113fe6",
+        "Namn": "Flen",
+        "NS": "6547472",
+        "Prognostisering": "true",
+        "Signatur": "Fle"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "335801",
+        "Id": "f88cbc1d-caca-4ef4-9ed2-dfce1d4908e0",
+        "Namn": "Aspen",
+        "NS": "6404715",
+        "Prognostisering": "true",
+        "Signatur": "Apn"
+      },
+      {
+        "CountyNo": "21",
+        "EPSG": "3006",
+        "EW": "611455",
+        "Id": "f8e47d7b-1fe8-4b29-9b46-89ae89e1329e",
+        "Namn": "Hudiksvall",
+        "NS": "6845315",
+        "Prognostisering": "true",
+        "Signatur": "Hkl"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "445683",
+        "Id": "f94ff8d7-e8c0-4e6f-a08c-034f4a0adf3a",
+        "Namn": "Klevshult",
+        "NS": "6356882",
+        "Prognostisering": "true",
+        "Signatur": "Kvh"
+      },
+      {
+        "CountyNo": "20",
+        "EPSG": "3006",
+        "EW": "506280",
+        "Id": "f9b5a423-7016-4f5a-9f30-c9c4b8237566",
+        "Namn": "Rättvik",
+        "NS": "6749950",
+        "Prognostisering": "true",
+        "Signatur": "Rv"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "423181",
+        "Id": "fa56d190-408b-4f92-a6ad-fe727361e4de",
+        "Namn": "Hässleholm",
+        "NS": "6224343",
+        "Prognostisering": "true",
+        "Signatur": "Hm"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "449655",
+        "Id": "fa813fdf-74a6-49ae-ae21-9d16e9f5c550",
+        "Namn": "Bor",
+        "NS": "6330620",
+        "Prognostisering": "true",
+        "Signatur": "Bor"
+      },
+      {
+        "CountyNo": "3",
+        "EPSG": "3006",
+        "EW": "649721",
+        "Id": "fac2a278-4dc5-433e-9345-771dcc346290",
+        "Namn": "Örbyhus",
+        "NS": "6680018",
+        "Prognostisering": "true",
+        "Signatur": "Öh"
+      },
+      {
+        "CountyNo": "17",
+        "EPSG": "3006",
+        "EW": "452706",
+        "Id": "fac6ec61-b007-4032-9341-c8c25fb2ca60",
+        "Namn": "Filipstad",
+        "NS": "6619231",
+        "Prognostisering": "false",
+        "Signatur": "Fid"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "325890",
+        "Id": "fb0296c5-810d-4bec-977a-1c5ef532f190",
+        "Namn": "Nol",
+        "NS": "6423327",
+        "Prognostisering": "true",
+        "Signatur": "Nol"
+      },
+      {
+        "CountyNo": "21",
+        "EPSG": "3006",
+        "EW": "574440",
+        "Id": "fb5286c3-ac67-4a05-af01-bd9b3b19da05",
+        "Namn": "Bollnäs",
+        "NS": "6802509",
+        "Prognostisering": "true",
+        "Signatur": "Bn"
+      },
+      {
+        "CountyNo": "4",
+        "EPSG": "3006",
+        "EW": "643765",
+        "Id": "fb804785-8b46-4ca2-8bb6-61f6c0914e9c",
+        "Namn": "Vagnhärad",
+        "NS": "6536707",
+        "Prognostisering": "true",
+        "Signatur": "Vhd"
+      },
+      {
+        "CountyNo": "2",
+        "EPSG": "3006",
+        "EW": "671076",
+        "Id": "fbe88f31-97d9-4d26-be69-b38beea2c10d",
+        "Namn": "Solna",
+        "NS": "6584623",
+        "Prognostisering": "false",
+        "Signatur": "So"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "319985",
+        "Id": "fc2c1d23-5e59-4bec-a137-cb5384c999c6",
+        "Namn": "Uddevalla C",
+        "NS": "6472264",
+        "Prognostisering": "true",
+        "Signatur": "Uv"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "348110",
+        "Id": "fc3bcafe-6289-4b2a-900c-ca5215a3a677",
+        "Namn": "Hindås",
+        "NS": "6398661",
+        "Prognostisering": "true",
+        "Signatur": "Hås"
+      },
+      {
+        "CountyNo": "12",
+        "EPSG": "3006",
+        "EW": "399549",
+        "Id": "fc90e92e-380d-47b6-8340-cee4a1d0520a",
+        "Namn": "Stehag",
+        "NS": "6196149",
+        "Prognostisering": "true",
+        "Signatur": "Sg"
+      },
+      {
+        "CountyNo": "2",
+        "EPSG": "3006",
+        "EW": "668247",
+        "Id": "fcf5ff47-c592-4d82-a8e3-c0299768d91e",
+        "Namn": "Flemingsberg",
+        "NS": "6568187",
+        "Prognostisering": "true",
+        "Signatur": "Flb"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "445400",
+        "Id": "fd4f83a4-0464-45b9-aabd-a28b579b8c9e",
+        "Namn": "Skillingaryd",
+        "NS": "6365443",
+        "Prognostisering": "true",
+        "Signatur": "Syd"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "343238",
+        "Id": "fdedccbb-f3c8-4d33-b71b-a20956d0c143",
+        "Namn": "Floda",
+        "NS": "6410613",
+        "Prognostisering": "true",
+        "Signatur": "Fd"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "362043",
+        "Id": "fe46bb6d-7770-4ba5-9eba-6d332dce8862",
+        "Namn": "Kinna",
+        "NS": "6376013",
+        "Prognostisering": "true",
+        "Signatur": "Kin"
+      },
+      {
+        "CountyNo": "6",
+        "EPSG": "3006",
+        "EW": "479904",
+        "Id": "fe56eba6-bb78-40f2-bc23-ce271cabb8c8",
+        "Namn": "Sävsjö",
+        "NS": "6362288",
+        "Prognostisering": "true",
+        "Signatur": "Sä"
+      },
+      {
+        "CountyNo": "14",
+        "EPSG": "3006",
+        "EW": "383288",
+        "Id": "ffbaff63-0ed5-46d4-8ab2-0ac16c85e1a9",
+        "Namn": "Herrljunga",
+        "NS": "6439223",
+        "Prognostisering": "true",
+        "Signatur": "Hr"
+      }
+    ]
+  }
+}
