@@ -7,10 +7,10 @@ foreach($all as $key => $station)
 	{
 		if(isset($all[$key]->gtfs) == FALSE OR $all[$key]->gtfs->id == NULL){
 			print "\n".$all[$key]->Namn;
-			$stop = getClosestStation(floatval($all[$key]->position->wgs84->lat),floatval($all[$key]->position->wgs84->long),1.0,7402000,'J');
+			$stop = getClosestStation(floatval($all[$key]->position->wgs84->lat),floatval($all[$key]->position->wgs84->long),1.0,7402000);
 			if($stop->stop_name == "not found")
 				{
-				$stop = getClosestStation(floatval($all[$key]->position->wgs84->lat),floatval($all[$key]->position->wgs84->long),100,9999999,'J');
+				$stop = getClosestStation(floatval($all[$key]->position->wgs84->lat),floatval($all[$key]->position->wgs84->long),100);
 				}
 			$all[$key]->gtfs = new stdClass;
 			$all[$key]->gtfs->id = $stop->stop_id;
